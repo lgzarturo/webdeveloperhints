@@ -1,0 +1,25 @@
+---
+title: "Crea Tu Perfil Profesional"
+date: 2020-01-02T12:05:10-05:00
+draft: true
+---
+
+Perfil profesional digital
+
+Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro.
+En la actualidad ya no es suficiente con tener un CV actualizado, debes contar con todas las herramientas que te hagan destacar sobre los demás para causar una excelente y vital primera impresión.
+
+Cada día la competencia por los mejores empleos es cada vez más brutal y a la par podemos acceder a mejores herramientas que nos expongan como personas comprometidas y que aprovechamos la tecnología a nuestro favor. Esa misma capacidad de adaptación nos puede dar una gran ventaja y nos puede postular como un candidato con grandes aptitudes hacia el cambio.
+
+Recursos
+Hoy en día tenemos redes sociales especializadas, blogs temáticos, sitios web económicos y hasta micro blogs para establecer relaciones de negocios que nos pongan en el mapa de los reclutadores de talentos. Para mí las redes sociales pueden llegar a ser peligrosas en cuanto a que fácilmente puedes caer en el juego y perder muchas horas procrastinando (perdiendo el tiempo) yo me voy más a crear un blog o una página con el perfil profesional.
+
+En mi caso uso este sitio web como perfil profesional, donde expongo la información más importante sobre mi experiencia, habilidades y proyectos realizados, así como un pequeño blog donde con el tiempo voy agregando artículos que creo son de relegación a para cualquiera que los pueda leer.
+
+Un buen lugar para empezar
+LinkedIn es una buena herramienta en la cual podemos empezar con nuestra búsqueda de trabajo y a construir una red profesional con nuestra información curricular. Es muy fácil de utilizar y nos mantiene al tanto de las noticias sobre el mundo laboral.
+
+Yo hago uso de la mayor cantidad de redes sociales y sitios web para difundir mis conocimientos y habilidades técnicas, me dé dedico al marketing de contenidos y soy desarrollador de aplicaciones web, es por ese motivo que intentó estar presente en todas las plataformas disponibles para alcanzar la mayor audiencia posible. Me encanta ayudar a las personas y crear soluciones que nos ayuden en alcanzar metas y objetivos establecidos.
+
+Ponte en la mira de los Headhunters
+Hay una plataforma que se llama StarTalent, yo he participado en el desarrollo de la herramienta y fue diseñada con el objetivo se ser una herramienta que te ayude en la búsqueda de empleo, con el soporte de Headhunter especializados y un alto conocimiento de la relación con altos ejecutivos como dueños, directores, ceo de empresas líderes en mercados mexicanos. Adicionalmente tienen un servicio presencial de Coach Ejecutivo con el cual te pueden ayudar a ser más eficiente tu búsqueda, mejorando las condiciones de trabajo y adecuándose a tus expectativas laborales; todo bajo un esquema seguro, confiable y confidencial.
