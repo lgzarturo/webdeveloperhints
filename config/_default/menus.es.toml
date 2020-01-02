@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "about"
+  name = "Sobre mi"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "Archivo"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "posts"
+  name = "Artículos"
+  url = "posts"
+  weight = 4
+
+[[main]]
+  identifier = "notes"
+  name = "Notas"
+  url = "notes"
+  weight = 5

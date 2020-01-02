@@ -1,0 +1,39 @@
+baseURL = "https://webdeveloperhints.com/"
+languageCode = "es"
+title = "Web Developer Hints"
+theme = "zzo"
+
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = false
+
+summaryLength = 70
+
+copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+timeout = 10000
+enableEmoji = true
+paginate = 13
+rssLimit = 100
+
+enableGitInfo = true
+googleAnalytics = ""
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  hardWraps = true
+  unsafe = true
+  xHTML = true
+[markup.highlight]
+codeFences = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
