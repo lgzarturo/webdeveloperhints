@@ -1,6 +1,7 @@
 ---
 title: "Privacidad y protección de datos"
 date: 2020-01-01T12:00:00-05:00
+description: "Política de privacidad, responsabilidad, seguridad, obtención, uso y protección de datos"
 ---
 
 ## Política de privacidad
@@ -35,13 +36,13 @@ El uso de cookies y su dirección IP, tomados por este sitio, se realiza solo co
 
 El sitio web se reserva el derecho de modificar, rectificar, alterar, agregar o eliminar cualquier punto del presente escrito en cualquier momento y sin previo aviso, siendo su responsabilidad el mantenerse informado del mismo para una adecuada administración de su información.
 
-### Estadísticas y otros sitios afines a FamiSoft.com
+### Estadísticas y otros sitios afines a webdeveloperhints.com
 
 Para el correcto funcionamiento de este blog, se hacen uso de diversos "cookies", tanto del sitio como de nuestros proveedores (como se expuso en el punto anterior), almacenados en su equipo o mediante el uso de algún script. Tal es el caso de “cookies” de Google Analytics, Tag Manager.
 
 Las “cookies” usadas solo se almacenan en su equipo con fines estadísticos, siendo omitidos los datos que pudieran resultar en recopilación de caracter importante.
 
-Lo invitamos también a leer las políticas de Privacidad de dos de los sistemas de publicidad usados en FamiSoft.com, siguiendo los enlaces que se listan a continuación:
+Lo invitamos también a leer las políticas de Privacidad de dos de los sistemas de publicidad usados en webdeveloperhints.com, siguiendo los enlaces que se listan a continuación:
 
 - [Política de Privacidad de Google Analytics](http://www.google.com/intl/es_ALL/privacypolicy.html)
 - [Política de Privacidad de Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)
