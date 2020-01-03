@@ -1,15 +1,21 @@
 ---
-title: "Aparece en Las Busquedas De Goolge"
-date: 2020-01-02T13:19:19-05:00
-draft: true
-categories: marketing seo
-resume: Te compartimos algunos puntos importantes que debes tener en cuenta para optimizar tu contenido web.
+author: "Arturo López"
+title: "Aparece en las búsquedas de Goolge"
+date: 2019-03-20T11:00:19-05:00
+description: "Puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en Google"
+tags: [
+  "google"
+]
+categories: [
+  "marketing",
+  "seo"
+]
+series: ["Posicionamiento web"]
 ---
 
-¿Cómo hacer para aparecer en las búsquedas de Google?
+## ¿Cómo hacer para aparecer en las búsquedas de Google?
 
-Conoce como optimizar tu contenido para Internet
-================================================
+### Conoce como optimizar tu contenido para Internet
 
 Para que Google pueda indexar y catalogar tu sitio web, es necesario que apliques una estrategia de optimización
 "**SEO On-Page**" en cada página de manera individual y es que a los buscadores les gusta que pongas atención a los
