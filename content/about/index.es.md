@@ -6,6 +6,8 @@ categories: ["consultoría", "seo", "sem"]
 tags: ["consultoría sem y seo", "marketing digital", "consultoría digital"]
 ---
 
+## [Arturo López](https://arthurolg.com)
+
 Mi nombre es [Arturo López](https://arthurolg.com) y soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías. 
 
 Mi trabajo es analizar y proveer soluciones efectivas sin importar el lenguaje, en el transcurso de mi carrera como programador he encontrado que diario aprendes algo nuevo y que de igual forma puedes crear algo diferente, es por eso por lo que me apasiona la programación de sistemas.
@@ -42,20 +44,20 @@ Tabajo con las mejores herramientas y lenguajes de programación disponibles, y 
 
 **Estoy comprometido con ser una profesionista transparente y capaz de ofrecer los mejores resultados**. Con este sitio busco tener contenido de valor para que mis clientes comprendan el compromiso que ofrezco y que otros profesionistas puedan encontrar contenido que les ayude en sus proyectos. 
 
-# Consultoría SEM & SEO
+### Consultoría SEM & SEO
 
 Tengo experiencia en la **optimización y posicionamiento** de comercios y profesionales. **Manejamos** la inversión de publicidad, **medimos** resultados, **analizamos** los resultados para **maximizar la conversión y aumentar sus clientes** potenciales.
 
 Como experto en metodologías sobre posicionamiento y promoción de sitios web, pongo especial atención al detalle dando prioridad a la optimización de contenido para generar marketing orgánico y posicionamiento natural. Sin embargo, para aumentar el alcance y acelerar los resultados uso **estrategias mediante campañas patrocinadas** por medio de **AdWords** o **Redes Sociales**.
 
-### Conoce las diferencias y ventajas de combinar el SEO y SEM.
+#### Conoce las diferencias y ventajas de combinar el SEO y SEM.
 
 La optimización web mejora la posición en los resultados de búsqueda y **los anuncios patrocinados nos ayudan aumentando el alcance en el menor tiempo posible**. Una estrategia exitosa se basa en combinar las herramientas y la experiencia, de esa manera debemos aprovechar el desarrollo de campañas patrocinadas, pero que estas se beneficien de sitios web bien optimizados.
 
-### ¿Para qué me sirve el SEO?
+#### ¿Para qué me sirve el SEO?
 
 Antes que nada el acrónimo SEO, significa Search Engine Optimization que en español se traduce como **Optimización de los Motores de Búsqueda**. El objetivo de esta metodología es **mejorar el posicionamiento**, haciendo más visible nuestro sitio web y apareciendo en los primeros resultados, sin embargo, esto es un proceso de optimización constante que se debe de considerar a largo plazo.
 
-### ¿Para qué me sirve el SEM?
+#### ¿Para qué me sirve el SEM?
 
 SEM significa Search Engine Marketing, esto en español se traduce como **Mercadotecnia en Motores de Búsqueda**, que es básicamente posicionamiento de sitios web a través de pago por publicidad. El SEM nos ayuda a crear **campañas de publicidad de pago** que se distribuye a un público objetivo, aumentando drásticamente la visibilidad y porcentaje de convertir clientes.
