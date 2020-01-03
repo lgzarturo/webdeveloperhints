@@ -6,8 +6,6 @@ categories: ["consultoría", "seo", "sem"]
 tags: ["consultoría sem y seo", "marketing digital", "consultoría digital"]
 ---
 
-## [Arturo López](https://arthurolg.com)
-
 Mi nombre es [Arturo López](https://arthurolg.com) y soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías. 
 
 Mi trabajo es analizar y proveer soluciones efectivas sin importar el lenguaje, en el transcurso de mi carrera como programador he encontrado que diario aprendes algo nuevo y que de igual forma puedes crear algo diferente, es por eso por lo que me apasiona la programación de sistemas.
