@@ -79,9 +79,7 @@ sociales**.
 ayuda **mejorar la experiencia de uso y previene el porcentaje de rebote**.
 
 Ahora ya conoces cuales son algunos de los puntos a tener en cuenta para mejorar tu sitio web, sabemos que es
-información muy técnica y que en ocasiones es difícil comprender todo lo relacionado a la optimización SEO, es por
-eso que [en contacto.top hemos creado una herramienta con la que podemos crear **páginas de aterrizaje totalmente
-optimizadas y 100% medibles**](http://localhost:4000/nuestras-herramientas.html).
+información muy técnica y que en ocasiones es difícil comprender todo lo relacionado a la optimización SEO.
 
 Si eres un experto de marketing, SEO o programador, ayúdanos con tu comentario, ¿Que otras ideas implementas para
 mejorar el posicionamiento web? Esperamos que la información sea de ayuda.
