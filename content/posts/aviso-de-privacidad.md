@@ -1,12 +1,11 @@
 ---
 title: "Privacidad y protección de datos"
-date: 2020-01-02T13:21:00-05:00
-draft: true
+date: 2020-01-01T12:00:00-05:00
 ---
 
 ## Política de privacidad
 
-En FamiSoft.com, en adelante ‘este sitio web’, respetamos su información personal y en vista de cumplir con las políticas de seguridad respectivas concernientes a todo sitio web, que deberían ser obligatorias, informo a ustedes lo siguiente.
+En [https://webdeveloperhints.com](webdeveloperhints.com), en adelante *‘este sitio web’*, respetamos su información personal y en vista de cumplir con las políticas de seguridad respectivas concernientes a todo sitio web, que deberían ser obligatorias, informo a ustedes lo siguiente.
 
 ### Privacidad de los datos personales:
 
@@ -44,6 +43,5 @@ Las “cookies” usadas solo se almacenan en su equipo con fines estadísticos,
 
 Lo invitamos también a leer las políticas de Privacidad de dos de los sistemas de publicidad usados en FamiSoft.com, siguiendo los enlaces que se listan a continuación:
 
-[Política de Privacidad de Google Analytics](http://www.google.com/intl/es_ALL/privacypolicy.html)
-
-[Política de Privacidad de Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)
+- [Política de Privacidad de Google Analytics](http://www.google.com/intl/es_ALL/privacypolicy.html)
+- [Política de Privacidad de Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)
