@@ -1,17 +1,25 @@
 ---
-title: "5 Formas De Escribir Codigo Limpio"
-date: 2020-01-02T12:13:41-05:00
-draft: true
+author: "Arturo López"
+title: "5 Formas de escribir código limpio"
+date: 2019-10-15T09:30:00-05:00
+description: "Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones"
+tags: [
+  "código limpio"
+]
+categories: [
+  "programación",
+  "desarrollo"
+]
+series: ["Tips para programar"]
 ---
 
-Principios básicos para crear código libre de errores.
+## Principios básicos para crear código libre de errores
 
-Principios básicos para crear código libre de errores.
 Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones.
-Buenas prácticas de programación
-¿Porque es necesario aplicar buenas prácticas de programación?
 
-Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura sobre desarrollo de nuevas técnicas o metodologías de programación.
+### Buenas prácticas de programación
+
+**¿Porque es necesario aplicar buenas prácticas de programación?** Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura sobre desarrollo de nuevas técnicas o metodologías de programación.
 
 Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de cómo hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
 
@@ -41,51 +49,49 @@ Aplicar estos principios es más complicado de lo que parece, ya que siempre hay
 
 Recuerda que la practica hace al maestro y en el caso de los programadores, mientras más código escribas más practica tendrás para refactorizar, sin embargo mientras más repites el mismo código entonces algo está haciendo mal. Para este párrafo lo mejor es aplicar los principios KISS & DRY.
 
+### KISS (Keep It Simply Stupid)
 
-
-KISS (Keep It Simply Stupid)
 En español “__Mantenlo Sencillo, ¡Estúpido!__”, es un principio que recomienda que el programador debe planear el desarrollo de código de la manera mas simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
 
-Todo debe ser lo más simple posible, no solo simple - __Albert Einstein__.
-La simplicidad es la sofisticación extrema - __Leonardo Da Vinci__.
-La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
-
+> Todo debe ser lo más simple posible, no solo simple - __Albert Einstein__.
+> La simplicidad es la sofisticación extrema - __Leonardo Da Vinci__.
+> La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
 
 6 pasos para aplicar el principio KISS
-Aplica la primera solución que se te ocurra.
-Si todo funciona bien, elimina lo superfluo.
-Simplifica el resto del código.
-Documenta solo lo que no es evidente.
-Si algo no evidente simplifícalo, el objetivo es eliminar los comentarios.
-Revisa, evalúa y vuelve a simplificar.
+- Aplica la primera solución que se te ocurra.
+- Si todo funciona bien, elimina lo superfluo.
+- Simplifica el resto del código.
+- Documenta solo lo que no es evidente.
+- Si algo no evidente simplifícalo, el objetivo es eliminar los comentarios.
+- Revisa, evalúa y vuelve a simplificar.
 
+### DRY (Don’t Repeat Yourself)
 
-DRY (Don’t Repeat Yourself)
 En español “__No te repitas__”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea re-utilizable de modo que no debería ser duplicada la funcionalidad.
 
 Factores que se intentan minimizar con este principio.
+- Duplicidad de código
+- Disminución en la dificultad de los cambios.
+- Mayor eficiencia para la evolución posterior.
+- Mejorar la claridad del software.
+- Evitar inconsistencias.
 
-Duplicidad de código
-Disminución en la dificultad de los cambios.
-Mayor eficiencia para la evolución posterior.
-Mejorar la claridad del software.
-Evitar inconsistencias.
 Sin importar los principios que el programador aplique, lo que queda claro es que son para evitar que el código se vuelva complicado y costoso de mantener o actualizar, he aquí algunos de los errores más comunes:
 
-Código duplicado, existe código idéntico o muy similar en más de una ubicación.
-Clases, Métodos, funciones, módulos o procedimientos demasiado grandes.
-Una lista muy grande de parámetros en un procedimiento o función empeora la legibilidad y la calidad del código.
-Una clase que usa excesivamente métodos de otra clase.
-Dependencias en detalles de implementación de otra clase.
-Una clase que sobrescribe un método de una clase base de tal manera que el contrato de la clase base no es honrado por la clase derivada.
-Clases que hacen muy poco, son consideradas como clases perezosas.
-El uso forzado de patrones de diseño demasiado complicados, donde uno más simple sería suficiente.
-Identificadores excesivamente cortos o largos. El nombre de una variable deberá reflejar su función, a menos que sea obvio.
-Excesivo uso de literales, estos deben codificarse como constantes con nombre, para mejorar la legibilidad y para evitar errores de programación.
-Código espagueti, denominado así a cualquier código con un control de flujo complejo e incomprensible. Es decir, código muy complicado de mantener y documentar que se vuelve una pesadilla hasta para su creador.
+- Código duplicado, existe código idéntico o muy similar en más de una ubicación.
+- Clases, Métodos, funciones, módulos o procedimientos demasiado grandes.
+- Una lista muy grande de parámetros en un procedimiento o función empeora la legibilidad y la calidad del código.
+- Una clase que usa excesivamente métodos de otra clase.
+- Dependencias en detalles de implementación de otra clase.
+- Una clase que sobrescribe un método de una clase base de tal manera que el contrato de la clase base no es honrado por la clase derivada.
+- Clases que hacen muy poco, son consideradas como clases perezosas.
+- El uso forzado de patrones de diseño demasiado complicados, donde uno más simple sería suficiente.
+- Identificadores excesivamente cortos o largos. El nombre de una variable deberá reflejar su función, a menos que sea obvio.
+- Excesivo uso de literales, estos deben codificarse como constantes con nombre, para mejorar la legibilidad y para evitar errores de programación.
+- Código espagueti, denominado así a cualquier código con un control de flujo complejo e incomprensible. Es decir, código muy complicado de mantener y documentar que se vuelve una pesadilla hasta para su creador.
 
+### Limpieza de código
 
-Limpieza de código
 Una vez que adoptamos los principios en el desarrollo de software, solo sería necesario acostumbrarnos a la técnica de Refactorización como un método para simplificar el código.
 
 La Refactorización se aplica como una técnica para reestructurar la estructura interna del código fuente, sin cambiar su comportamiento o el resultado. Esta técnica también es usada en parte del mantenimiento de código donde no se arreglan errores, ni se añade funcionalidad y en el cual es objetivo es mejorar la comprensión del código, eliminar código muerto, para así facilitar el mantenimiento en el futuro.
