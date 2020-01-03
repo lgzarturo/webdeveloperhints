@@ -1,7 +1,6 @@
 ---
 title: "Condiciones de uso de nuestros servicios"
-date: 2020-01-02T13:20:46-05:00
-draft: true
+date: 2020-01-01T13:50:46-05:00
 ---
 
 ## Condiciones del Servicio
