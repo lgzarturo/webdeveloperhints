@@ -1,11 +1,12 @@
 ---
 title: "Condiciones de uso de nuestros servicios"
 date: 2020-01-01T13:50:46-05:00
+description: "Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con webdeveloperhits.com, favor de enviar un correo a me@webdeveloperhits.com"
 ---
 
 ## Condiciones del Servicio
 
-### ¡BIENVENIDO A **[https://webdeveloperhits.com](webdeveloperhits.com)**!
+### ¡BIENVENIDO A **[webdeveloperhits.com](https://webdeveloperhits.com)**!
 Gracias por utilizar nuestros productos y **Servicios** (*"Servicios"*). Los **Servicios** son proporcionados por **webdeveloperhits**.com, ubicado en **Cancún, Quintana Roo, México**.
 
 Mediante la utilización de nuestros **Servicios** usted está aceptando estas condiciones. **Por favor, léalas detenidamente**.
@@ -77,4 +78,4 @@ Si usted no cumple estas condiciones, y nosotros no tomamos acción inmediata, e
 
 Si cualquier disposición de estas condiciones resultare inejecutable, ello no afectará la validez del resto de las condiciones.
 
-Para obtener información sobre cómo comunicarse con **webdeveloperhits**, favor de enviar un correo a me@webdeveloperhits.com
+Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con **webdeveloperhits**, favor de enviar un correo a me@webdeveloperhits.com
