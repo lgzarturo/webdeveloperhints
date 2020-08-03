@@ -1,35 +1,31 @@
 baseURL = "https://webdeveloperhints.com/"
+DefaultContentLanguage = "es"
 languageCode = "es"
 title = "Web Developer Hints"
 theme = "anubis"
 paginate = 6
 enableRobotsTXT = true
-
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
-
 summaryLength = 70
-
 copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
 rssLimit = 100
-
 enableGitInfo = true
 googleAnalytics = "UA-42486999-5"
 disqusShortname = "lgzarturo"
 
-[author]
+[Author]
   name = "Arturo López"
 
-[params]
+[Params]
   author = "Arturo López"
   description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
   paginationSinglePost = true
   style = "dark-without-switcher"
   dateFormat = "2006-01-02"
-  favicon = "favicon.svg"
 
 [markup]
 [markup.goldmark]
@@ -38,15 +34,15 @@ disqusShortname = "lgzarturo"
   unsafe = true
   xHTML = true
 [markup.highlight]
-codeFences = true
-lineNos = true
-lineNumbersInTable = true
-noClasses = false
+  codeFences = true
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = false
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+  category = "categories"
+  tag = "tags"
+  series = "series"
