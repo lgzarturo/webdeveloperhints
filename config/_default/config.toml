@@ -26,7 +26,6 @@ disqusShortname = "lgzarturo"
 [params]
   author = "Arturo López"
   description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
-  dateFormat = "2006-01-02"
   paginationSinglePost = true
   style = "dark-without-switcher"
   favicon = "favicon.svg"
