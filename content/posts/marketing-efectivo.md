@@ -3,29 +3,23 @@ author: "Arturo López"
 title: "6 pasos para un Marketing efectivo"
 date: 2019-06-24T11:00:19-05:00
 description: "En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca."
-tags: [
-  "google"
-]
-categories: [
-  "marketing",
-  "seo",
-  "sem"
-]
+tags: ["google"]
+categories: ["marketing", "seo", "sem"]
 series: ["Posicionamiento web", "Marketing efectivo"]
 ---
 
-## Marketing efectivo 
-
 En internet las empresas buscan resaltar sus productos o marcas, sin embargo, son pocas las que llevan una metodología adecuada.
 
-En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca. Son 6 sencillos pero poderosos pasos que te ayudarán a pensar en una mejor estrategía.
+En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca. Son 6 sencillos pero poderosos pasos que te ayudarán a pensar en una mejor estrategia.
 
-- **Conoce tu propuesta de valor**: Al definir tu propuesta de valor centrate en una pregunta en específico ¿Cómo quieres que los clientes te vean? Agarra papel y lapiz y define que es lo que expresa tu marca, la calidad, tu nicho de mercado, cuales son los clientes a los que quieres llegar y que emoción buscas transmitir, con eso en mente poco a poco descubriras cual es el verdadero valor de tu producto.
+## Marketing efectivo
+
+- **Conoce tu propuesta de valor**: Al definir tu propuesta de valor centrate en una pregunta en específico ¿Cómo quieres que los clientes te vean? Agarra papel y lápiz y define que es lo que expresa tu marca, la calidad, tu nicho de mercado, cuales son los clientes a los que quieres llegar y que emoción buscas transmitir, con eso en mente poco a poco descubrirás cual es el verdadero valor de tu producto.
 - **Conoce a tu competencia**: No solo debes realizar un diagnóstico sobre tu empresa y como están los principales competidores, la idea es conocer realmente que les apasiona, por que tus competidores pueden ser mejores o peores, atrevete a probar sus productos, realiza criticas constructivas sobre ellos y lo que representan.
 - **Define tus objetivos**: ¿Quienes somos y para dónde vamos? Son dos preguntas que te ayudaran a saber cuál es el plan de acción. El planteamiento de los objetivos iniciales llegan a determinar a los clientes.
-- **Infórmate sobre el mercado**: Pon atención a la competencia a nivel de productos, define los precios, aprende de la relación entre calidad y demanda de los productos. Determina ¿Quiénes serán los clientes objetivos?, aprender de tu competencia te ayudará a mejorar.
+- **Infórmate sobre el mercado**: Pon atención a los productos de la competencia, define los precios, aprende de la relación entre calidad y demanda de los productos. Determina ¿Quiénes serán los clientes objetivos?, aprender de tu competencia te ayudará a mejorar.
 - **Establece los canales de comunicación**: Debes poner mucha atención en definir los canales adecuados para que los clientes vean los anuncios. Actualmente los canales más populares son internet, email y la publicidad pagada.
-- **Crea tus Estrategias**: El proposito de diseñar un estrategía esta en definir cómo vas a lograr los objetivos propuestos. Definir una estrategia para mostrar tu propuesta de valor, otra estrategia para contactar con los clientes ofreciendo promociones y una última estrategia para fidelizar a tu público objetivo que lo haga participar con tu marca.
+- **Crea tus Estrategias**: El proposito de diseñar un estrategia está en definir cómo vas a lograr los objetivos propuestos. Definir una estrategia para mostrar tu propuesta de valor, otra estrategia para contactar con los clientes ofreciendo promociones y una última estrategia para fidelizar a tu público objetivo que lo haga participar con tu marca.
 
 Algunas de las tareas con las cuales puedes empezar a promocionar tu marca o productos por internet y que te ayudaran a crear las bases para tu estrategia digital son:
 

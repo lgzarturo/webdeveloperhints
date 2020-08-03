@@ -1,0 +1,17 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+charset = utf-8
+end_of_line = lf
+max_line_length = 80
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{md,txt}]
+# ij_wrap_on_typing = true
+# ij_any_wrap_long_lines = true
+trim_trailing_whitespace = false

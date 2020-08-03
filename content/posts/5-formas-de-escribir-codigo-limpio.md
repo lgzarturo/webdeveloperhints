@@ -3,14 +3,10 @@ author: "Arturo López"
 title: "5 Formas de escribir código limpio"
 date: 2019-10-15T09:30:00-05:00
 description: "Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones"
-tags: [
-  "código limpio"
-]
-categories: [
-  "programación",
-  "desarrollo"
-]
+tags: ["código limpio"]
+categories: ["programación", "desarrollo"]
 series: ["Tips para programar"]
+favorite: true
 ---
 
 ## Principios básicos para crear código libre de errores
@@ -23,7 +19,9 @@ Técnicas para crear código libre de errores para mejorar él mantenimiento y a
 
 Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de cómo hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
 
-Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como “__código pythonico__”. De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen de Python, como una serie de principios que definen cómo deberían pensar los programadores.
+Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como "__código pythonico__". 
+
+De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen de Python, como una serie de principios que definen cómo deberían pensar los programadores:
 
 - Bello es mejor que feo.
 - Explícito es mejor que implícito.
@@ -51,13 +49,11 @@ Recuerda que la practica hace al maestro y en el caso de los programadores, mien
 
 ### KISS (Keep It Simply Stupid)
 
-En español “__Mantenlo Sencillo, ¡Estúpido!__”, es un principio que recomienda que el programador debe planear el desarrollo de código de la manera mas simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
+En español "__Mantenlo Sencillo, ¡Estúpido!__", es un principio que recomienda que el programador debe planear el desarrollo de código de la manera más simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
 
 > Todo debe ser lo más simple posible, no solo simple - __Albert Einstein__.
-> La simplicidad es la sofisticación extrema - __Leonardo Da Vinci__.
-> La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
 
-6 pasos para aplicar el principio KISS
+6 pasos para aplicar el principio KISS:
 - Aplica la primera solución que se te ocurra.
 - Si todo funciona bien, elimina lo superfluo.
 - Simplifica el resto del código.
@@ -65,11 +61,13 @@ En español “__Mantenlo Sencillo, ¡Estúpido!__”, es un principio que recom
 - Si algo no evidente simplifícalo, el objetivo es eliminar los comentarios.
 - Revisa, evalúa y vuelve a simplificar.
 
+> La simplicidad es la sofisticación extrema - __Leonardo Da Vinci__.
+
 ### DRY (Don’t Repeat Yourself)
 
 En español “__No te repitas__”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea re-utilizable de modo que no debería ser duplicada la funcionalidad.
 
-Factores que se intentan minimizar con este principio.
+Factores que se intentan minimizar con este principio:
 - Duplicidad de código
 - Disminución en la dificultad de los cambios.
 - Mayor eficiencia para la evolución posterior.
@@ -90,12 +88,14 @@ Sin importar los principios que el programador aplique, lo que queda claro es qu
 - Excesivo uso de literales, estos deben codificarse como constantes con nombre, para mejorar la legibilidad y para evitar errores de programación.
 - Código espagueti, denominado así a cualquier código con un control de flujo complejo e incomprensible. Es decir, código muy complicado de mantener y documentar que se vuelve una pesadilla hasta para su creador.
 
+> La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
+
 ### Limpieza de código
 
 Una vez que adoptamos los principios en el desarrollo de software, solo sería necesario acostumbrarnos a la técnica de Refactorización como un método para simplificar el código.
 
-La Refactorización se aplica como una técnica para reestructurar la estructura interna del código fuente, sin cambiar su comportamiento o el resultado. Esta técnica también es usada en parte del mantenimiento de código donde no se arreglan errores, ni se añade funcionalidad y en el cual es objetivo es mejorar la comprensión del código, eliminar código muerto, para así facilitar el mantenimiento en el futuro.
+La refactorización se aplica como una técnica para reestructurar la estructura interna del código fuente, sin cambiar su comportamiento o el resultado. Esta técnica también es usada en parte del mantenimiento de código donde no se arreglan errores, ni se añade funcionalidad y en el cual es objetivo es mejorar la comprensión del código, eliminar código muerto, para así facilitar el mantenimiento en el futuro.
 
 Al aplicar la refactorización como un proceso separado, nos aseguramos de no introducir errores al sistema y nos ayuda a identificar posibles bugs debido a que el código estaba mal planeado, a esto se le conoce como limpieza de código.
 
-Para más información visita el siguiente enlace http://www.python.org/dev/peps/pep-0020/
+Para más información revisa el documento en línea "[The Zen of Python](http://www.python.org/dev/peps/pep-0020/)"

@@ -26,17 +26,17 @@ Especialidades:
 
 Antes que nada, gracias por visitar este sitio. 
 
-El objetivo de webdeveloperhints.com es publicar artículos sobre mis proyectos, ideas, tecnología, programación y todo lo relacionado con desarrollo de software. Aún estoy generando contenido que espero sea de tu agrado.
+El objetivo de [webdeveloperhints.com](https://webdeveloperhints.com) es publicar artículos sobre mis proyectos, ideas, tecnología, programación y todo lo relacionado con desarrollo de software. Aún estoy generando contenido que espero sea de tu agrado.
 
-Como profesionista busco crear las herramientas necesarias, automatizando procesos y creando una relación ganadora entre **tecnología y especialistas**, estoy convencido que lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
+Como profesionista busco crear las herramientas necesarias, automatizando procesos y creando una relación ganadora entre **tecnología y especialistas**, lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
 
-**Trabajo en base a los estándares de la industria**. Mis desarrollos son sitios **responsivos y optimizadas** para los buscadores, así como para compartirlas en redes sociales mediante el uso de micro formatos que describen mejor el contenido de la página, siendo elementos claves para mejorar la interacción con diversos medios de publicidad digital.
+**Trabajo usando los estándares de la industria**. Mis desarrollos son sitios **responsivos y optimizadas** para los buscadores, así como para compartirlas en redes sociales mediante el uso de micro formatos que describen mejor el contenido de la página, siendo elementos claves para mejorar la interacción con diversos medios de publicidad digital.
 
 ### Tecnología
 
-> **La tecnología está orientada en ofrecer resultados**. Creo que **la tecnología es un diferenciados** y hace que los productos o servicios sean 100% medible. 
+> **La tecnología está orientada en ofrecer resultados**. Creo que **la tecnología es un diferenciados** y hace que los productos o servicios sean 100% medibles. 
 
-Tabajo con las mejores herramientas y lenguajes de programación disponibles, y en el area de marketing digital mi objetivo es medir el desempeño real de las campañas, realizar ajustes y que el cliente tenga el control de sus conversiones.
+Trabajo con las mejores herramientas y lenguajes de programación disponibles, y en el área de marketing digital mi objetivo es medir el desempeño real de las campañas, realizar ajustes y que el cliente tenga el control de sus conversiones.
 
 ### Compromiso
 

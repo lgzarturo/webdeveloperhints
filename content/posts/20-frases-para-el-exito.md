@@ -3,20 +3,14 @@ author: "Arturo López"
 title: "20 Frases para el éxito"
 date: 2020-01-02T00:35:16-05:00
 description: "Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo"
-tags: [
-    "frases",
-    "personal"
-]
-categories : [
-    "frases"
-]
+tags: ["frases", "motivación"]
+categories : ["inspiración", "emprendimiento"]
 series: ["Frases profesionales"]
-aliases: ["20-frases-que-motivan-al-exito"]
+aliases: ["20-frases-para-motivar-tu-emprendimiento"]
+favorite: true
 ---
 
-Hay algunas frases que nos marcan desde la primera vez que las escuchamos, nos dan un poco de inspiración y nos motivan
-en alcanzar el éxito, así es como poco a poco vamos construyendo nuestro camino, nos ayudan a madurar y crecer
-como individuos.
+Hay algunas frases que nos marcan desde la primera vez que las escuchamos, nos dan un poco de inspiración y nos motivan en alcanzar el éxito, así es como poco a poco vamos construyendo nuestro camino, nos ayudan a madurar y crecer como individuos.
 
 Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo al 100%.
 

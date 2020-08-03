@@ -1,7 +1,9 @@
 baseURL = "https://webdeveloperhints.com/"
 languageCode = "es"
 title = "Web Developer Hints"
-theme = "zzo"
+theme = "anubis"
+paginate = 6
+enableRobotsTXT = true
 
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
@@ -12,11 +14,22 @@ summaryLength = 70
 copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
-paginate = 13
 rssLimit = 100
 
 enableGitInfo = true
 googleAnalytics = "UA-42486999-5"
+disqusShortname = "lgzarturo"
+
+[author]
+  name = "Arturo López"
+
+[params]
+  author = "Arturo López"
+  description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
+  dateFormat = "2006-01-02"
+  paginationSinglePost = true
+  style = "dark-without-switcher"
+  favicon = "favicon.svg"
 
 [markup]
 [markup.goldmark]

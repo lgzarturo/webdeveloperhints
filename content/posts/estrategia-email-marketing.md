@@ -1,28 +1,22 @@
 ---
 author: "Arturo López"
-title: "Crea una estrategia de email marketing efectiva"
+title: "Crea una estrategia efectiva para tu campaña de correos"
 date: 2019-05-10T10:40:29-05:00
 description: "Conecta con tus clientes, creamos tu presencia online para que ganes visibilidad y reconocimiento de marca"
-tags: [
-  "inbound marketing",
-  "estrategia email marketing"
-]
-categories: [
-  "marketing",
-  "seo",
-  "sem",
-  "email marketing"
-]
+tags: ["inbound marketing", "estrategia email marketing"]
+categories: ["marketing", "seo", "sem", "email marketing"]
 series: ["Posicionamiento web"]
 ---
 
+El objetivo es conectar con tus clientes y crear una presencia online para que ganes mayor visibilidad y reconocimiento de marca.
+
 ## Trabajando con una estrategia de email marketing.
 
-El email marketing es una herramienta poderosa, económica y muy útil para el inbound marketing. La meta es trabajar con la fidelidad de tus listas de prospectos y ganarte la confianza de tu público objetivo. Es una técnica que se utiliza en el marketing digital para tener un acercamiento más directo con los clientes por medio de mensajes de correo electrónico.
+El Email Marketing es una técnica de promoción que se usa como una herramienta poderosa, económica y muy útil para el inbound marketing. La meta es trabajar con la fidelidad de tus listas de clientes y ganarte la confianza de tu público objetivo. Es una técnica que se utiliza en el marketing digital para tener un acercamiento más directo con los clientes por medio de mensajes de correo electrónico.
 
-El objetivo que nos da una herramienta muy poderosa; es que en poco tiempo puedes construir una lista de correos con los prospectos que están interesados en tus productos o servicios y trabajar con esos prospectos es una parte fundamental del mercadeo por internet y te brinda una canal de comunicación directo con tus futuros clientes.
+El objetivo que nos da una herramienta muy poderosa; es que en poco tiempo puedes construir una lista de correos con las personas que están interesadas en tus productos o servicios y trabajar con esos posibles clientes es una parte fundamental del mercadeo por internet ya que te brinda un canal de comunicación directo con tus futuros clientes.
 
-Hoy en día hay muchas herramientas que te ayudan a que esta labor sea más fácil y económico. El tema principal es crear tu propia estrategia de marketing y hacer ajustes hasta que obtengas resultados positivos. A mí en lo personal me gusta trabajar con [MailChimp](https://mailchimp.com/), su principal función es ayudarnos a que nuestras campañas tengan éxito y sean entregadas correctamente.
+Hoy en día hay muchas herramientas que te ayudan a que esta labor sea más fácil y económico. Otro objetivo es desarrollar una estrategia de marketing y hacer ajustes hasta que obtengas resultados positivos. A mí en lo personal me gusta trabajar con [MailChimp](https://mailchimp.com/), su principal función es ayudarnos a que nuestras campañas tengan éxito y sean entregadas correctamente.
 
 **MailChimp** ofrece un servicio de prueba muy práctico para iniciar y cuando el negocio vaya prosperando de manera natural puedes subiendo el costo de lo que vas utilizando.
 
@@ -44,13 +38,13 @@ El correo electrónico se ha convertido en el medio de comunicación más usado 
 
 > Hay un dicho que dice "el dinero está en la lista"
 
-Para poder ofrecer o vender tus productos es necesario que tengas una lista de contactos que quieran escucharte. Pues a eso se refiere la frase, ya que construir una lista de suscriptores no es tarea fácil, es un proceso que te puede llevar mucho tiempo y dedicación.
+Para vender algún producto en línea es necesario que tengas una lista de contactos que quieran escucharte. Pues a eso se refiere la frase, ya que construir una lista de suscriptores no es tarea fácil, es un proceso que te puede llevar mucho tiempo y dedicación.
 
 Pero tener una lista enorme no sirve de mucho si no se trabaja o se limpia adecuadamente. Una lista tiene fecha de caducidad si no se trabaja de la manera correcta bajo una buena estrategia de email marketing.
 
 ### ¿Porque utilizar MailChimp?
 
-Una herramienta de email marketing es fundamental para el éxito de tu estrategia de marketing digital. MailChimp es una de la herramientas más robustas y profesionales que he utilizado.
+Una herramienta de email marketing es fundamental para el éxito de tu estrategia de marketing digital. MailChimp es una de las herramientas más robustas y profesionales que he utilizado.
 
 Ofrecen un plan gratuito fantástico que te permite empezar a trabajar sin planes forzosos y manejando una lista enorme para los que están empezando a crear su lista de suscriptores.
 
@@ -74,7 +68,7 @@ Con el *Inbound Marketing*, el contacto con los usuarios debe ser con la menor i
 
 ### La definición más aceptada de Inbound Marketing
 
-El **Inbound Marketing** es una **metodología que combina técnicas de publicidad** para que los clientes potenciales reconozcan nuestra marca así como los productos y servicios que ofrecemos ofreciendo una forma libre de intrusiones para que los usuarios no sientan que la finalidad es conseguir ventas y la manera de lograr eso es ofreciendo contenido de calidad que aporte valor.
+El **Inbound Marketing** es una **metodología que combina técnicas de publicidad** para que los clientes potenciales reconozcan nuestra marca, así como los productos y servicios que ofrecemos y la manera de lograr eso es creando contenido de calidad que aporte valor.
 
 **El Inbound Marketing atrae a tus clientes** con contenido de calidad, mientras que el outbound marketing los atraes por medio de un presupuesto pagando publicidad.
 
@@ -108,7 +102,7 @@ El marketing y las relaciones públicas se han modificado gracias a la popularid
 
 Es importante recordar qué hay elementos clave para desarrollar una estrategia de Inbound Marketing y para aplicar una metodología exitosa debemos considerar los siguientes escenarios:
 
--   **Buyer persona:** Debemos tener en claro cuáles son las características de nuestro cliente ideal, crear una representación ficticia nos ayuda a comprender mejor el tipo de comunicación que debemos desarrollar, que contenido le puede parecer interesante y finalmente satisfacer sus necesidades. Con el Inbound Marketing nos centramos en las características de nuestro cliente ideal para saber hasta el último detalle sobre el y de esa manera desarrollar una estrategia de contenido que sea de alto valor para nuestros usuarios.
+-   **Buyer persona:** Debemos tener en claro cuáles son las características de nuestro cliente ideal, crear una representación ficticia nos ayuda a comprender mejor el tipo de comunicación que debemos desarrollar, que contenido le puede parecer interesante y finalmente satisfacer sus necesidades. Con el Inbound Marketing nos centramos en las características de nuestro cliente ideal para saber hasta el último detalle sobre él y de esa manera desarrollar una estrategia de contenido que sea de alto valor para nuestros usuarios.
 -   **El contenido es el rey:** Una vez que sabemos cómo es nuestro cliente ideal, podremos estructurar una estrategia de Marketing de contenidos, enfocados en aportar valor y que le permitan tomar una decisión de compra. Los beneficios de crear contenido de calidad es que le dan visibilidad y posicionamiento a la marca; además que nos permite construir una base de suscriptores que en un futuro podremos trabajar para maximizar las posibilidades de conversión.
 -   **Segmentación:** Debemos identificar en que fase se encuentra el cliente, esto se logra mediante un acompañamiento del usuario por el proceso de venta y nos permite ofrecerle información de valor para el momento de la toma de decisión sobre realizar la compra.
 -   **Automatización:** Debemos definir ciertas tareas automatizadas para entregar el mensaje ideal al público correcto y justamente en el momento perfecto.
@@ -125,6 +119,8 @@ El Inbound Marketing no sólo se centra en conseguir clientes finales. Entre los
 
 Es necesario que tengas en cuenta que la fórmula para conseguir ventas por medio del **Inbound Marketing** es por medio de la coordinación efectiva de cada una de las fases y que todo debe estar perfectamente integrado.
 
-La idea de crear una estrategia de email marketing es para mantener informados a tus clientes de los nuevos servicios o productos que ofreces y en el caso de inbound marketing ofrecer contenido de calidad que pueda detonar en una conversión en el futuro. Una buena estrategia nos da una guía del tipo de campañas que debemos crear y también analizar los gustos de los usuarios para ir mejorando en base a los resultados obtenidos.
+La idea de crear una estrategia de email marketing es para mantener informados a tus clientes de los nuevos servicios o productos que ofreces y en el caso de inbound marketing ofrecer contenido de calidad que pueda detonar en una conversión en el futuro. 
+
+Una buena estrategia nos da una guía del tipo de campañas que debemos crear y también analizar los gustos de los usuarios para ir mejorando dependiendo de los resultados obtenidos.
 
 Cuéntanos como te podemos ayudar en tu estrategia digital
