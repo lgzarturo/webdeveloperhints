@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "Conseguir talento en el menor tiempo posible"
-date: 2019-09-10T10:20:00-05:00
+date: 2019-09-10
 description: "Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa"
 tags: ["software"]
 categories: ["startalent", "software ats"]

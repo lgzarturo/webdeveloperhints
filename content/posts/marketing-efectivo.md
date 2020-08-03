@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "6 pasos para un Marketing efectivo"
-date: 2019-06-24T11:00:19-05:00
+date: 2019-06-24
 description: "En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca."
 tags: ["google"]
 categories: ["marketing", "seo", "sem"]

@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "Aparece en las búsquedas de Google"
-date: 2019-03-20T11:00:19-05:00
+date: 2019-03-20
 description: "Puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en Google"
 tags: ["google"]
 categories: ["marketing", "seo"]

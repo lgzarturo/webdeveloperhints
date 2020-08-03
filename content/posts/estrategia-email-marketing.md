@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "Crea una estrategia efectiva para tu campaña de correos"
-date: 2019-05-10T10:40:29-05:00
+date: 2019-05-10
 description: "Conecta con tus clientes, creamos tu presencia online para que ganes visibilidad y reconocimiento de marca"
 tags: ["inbound marketing", "estrategia email marketing"]
 categories: ["marketing", "seo", "sem", "email marketing"]

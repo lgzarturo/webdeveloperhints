@@ -1,6 +1,6 @@
 ---
 title: "Condiciones de uso de nuestros servicios"
-date: 2020-01-01T13:50:46-05:00
+date: 2020-01-01
 description: "Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con webdeveloperhits.com, favor de enviar un correo a me@webdeveloperhits.com"
 ---
 

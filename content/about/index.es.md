@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-date: 2020-01-02T00:28:24-05:00
+date: 2020-01-02
 description: "Auditorias web para mejorar la optimización de tu sitio web, obtén más resultados de la publicidad digital."
 categories: ["consultoría", "seo", "sem"]
 tags: ["consultoría sem y seo", "marketing digital", "consultoría digital"]

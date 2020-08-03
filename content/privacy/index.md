@@ -1,6 +1,6 @@
 ---
 title: "Privacidad y protección de datos"
-date: 2020-01-01T12:00:00-05:00
+date: 2020-01-01
 description: "Política de privacidad, responsabilidad, seguridad, obtención, uso y protección de datos"
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "5 Formas de escribir código limpio"
-date: 2019-10-15T09:30:00-05:00
+date: 2019-10-15
 description: "Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones"
 tags: ["código limpio"]
 categories: ["programación", "desarrollo"]

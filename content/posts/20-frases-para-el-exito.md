@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "20 Frases para el éxito"
-date: 2020-01-02T00:35:16-05:00
+date: 2020-01-02
 description: "Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo"
 tags: ["frases", "motivación"]
 categories : ["inspiración", "emprendimiento"]

@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "Crea tu perfil profesional"
-date: 2019-09-10T10:20:00-05:00
+date: 2019-09-10
 description: "Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro"
 tags: ["software"]
 categories: ["startalent", "ats", "candidatos"]

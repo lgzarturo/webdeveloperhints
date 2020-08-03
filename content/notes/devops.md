@@ -1,6 +1,6 @@
 ---
 title: "Desarrollo y operaciones"
-date: 2020-01-02T11:24:20-05:00
+date: 2020-01-02
 draft: true
 ---
 

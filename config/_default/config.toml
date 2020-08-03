@@ -28,6 +28,7 @@ disqusShortname = "lgzarturo"
   description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
   paginationSinglePost = true
   style = "dark-without-switcher"
+  dateFormat = "2006-01-02"
   favicon = "favicon.svg"
 
 [markup]

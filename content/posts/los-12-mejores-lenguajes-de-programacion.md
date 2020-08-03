@@ -1,7 +1,7 @@
 ---
 author: "Arturo López"
 title: "Los 12 mejores lenguajes de programación"
-date: 2020-01-03T08:00:00-05:00
+date: 2020-01-03
 description: "Este es mi listado de los lenguajes que considero son los más populares en la actualidad"
 tags: ["lenguajes de programación"]
 categories: ["programación", "desarrollo"]
