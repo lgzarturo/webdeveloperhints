@@ -2,20 +2,24 @@ baseURL = "https://webdeveloperhints.com/"
 DefaultContentLanguage = "es"
 languageCode = "es"
 title = "Web Developer Hints"
-theme = "anubis"
+theme = "hugo-dusk"
+canonifyurls = true
 paginate = 6
 enableRobotsTXT = true
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 summaryLength = 70
-copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+copyright = "Arturo López © 2020, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
 rssLimit = 100
 enableGitInfo = true
 googleAnalytics = "UA-42486999-5"
-disqusShortname = "lgzarturo"
+disqusShortname = "web-developer-hints"
+SectionPagesMenu = "main"
+pygmentsStyle = "vim" # other dark style options: vim, fruity, monokai
+pygmentsCodeFences = true
 
 [Author]
   name = "Arturo López"
@@ -26,6 +30,15 @@ disqusShortname = "lgzarturo"
   paginationSinglePost = true
   style = "dark-without-switcher"
   dateFormat = "2006-01-02"
+  email = "lgzarturo@gmail.com"
+  github = "lgzarturo"
+  twitter = "lgzarturo"
+  linkedin = "lgzarturo"
+  theme_colors = "default-dark"
+
+[params.meta]
+  keywords = "Desarrollo web, programación, lenguajes de programación"
+  description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
 
 [markup]
 [markup.goldmark]
@@ -38,11 +51,13 @@ disqusShortname = "lgzarturo"
   lineNos = true
   lineNumbersInTable = true
   noClasses = false
+  style = "monokai" # dark themes: monokai, api, fruity, native, rrt, swapoff
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   category = "categories"
+  group = "groups"
   tag = "tags"
   series = "series"

@@ -5,3 +5,7 @@
 [submodule "themes/anubis"]
 	path = themes/anubis
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
+
+[submodule "themes/hugo-dusk"]
+	path = themes/hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk.git

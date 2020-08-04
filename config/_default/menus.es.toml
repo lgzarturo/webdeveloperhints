@@ -1,23 +1,17 @@
 [[main]]
-  identifier = "posts"
-  name = "Artículos"
-  url = "posts"
+  identifier = "home"
+  name = "Inicio"
+  url = "/"
   weight = 1
 
 [[main]]
-  identifier = "categories"
-  name = "Categorías"
-  url = "categories"
+  identifier = "posts"
+  name = "Artículos"
+  url = "/posts"
   weight = 2
-
-[[main]]
-  identifier = "tags"
-  name = "Etiquetas"
-  url = "tags"
-  weight = 3
 
 [[main]]
   identifier = "about"
   name = "Sobre mi"
-  url = "about"
-  weight = 4
+  url = "/about"
+  weight = 3
