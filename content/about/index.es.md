@@ -5,8 +5,10 @@ description: "Auditorias web para mejorar la optimización de tu sitio web, obt�
 categories: ["consultoría", "seo", "sem"]
 tags: ["consultoría sem y seo", "marketing digital", "consultoría digital"]
 ---
+     
+![Web Developer @arthurolg](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
-Mi nombre es [Arturo López](https://arthurolg.com) y soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías. 
+Mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías. 
 
 Mi trabajo es analizar y proveer soluciones efectivas sin importar el lenguaje, en el transcurso de mi carrera como programador he encontrado que diario aprendes algo nuevo y que de igual forma puedes crear algo diferente, es por eso por lo que me apasiona la programación de sistemas.
 
@@ -26,7 +28,7 @@ Especialidades:
 
 Antes que nada, gracias por visitar este sitio. 
 
-El objetivo de [webdeveloperhints.com](https://webdeveloperhints.com) es publicar artículos sobre mis proyectos, ideas, tecnología, programación y todo lo relacionado con desarrollo de software. Aún estoy generando contenido que espero sea de tu agrado.
+El objetivo de [webdeveloperhints.com](https://webdeveloperhints.com "Tips de desarrollo web y programación") es publicar artículos sobre mis proyectos, ideas, tecnología, programación y todo lo relacionado con desarrollo de software. Aún estoy generando contenido que espero sea de tu agrado.
 
 Como profesionista busco crear las herramientas necesarias, automatizando procesos y creando una relación ganadora entre **tecnología y especialistas**, lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
 
@@ -34,7 +36,7 @@ Como profesionista busco crear las herramientas necesarias, automatizando proces
 
 ### Tecnología
 
-> **La tecnología está orientada en ofrecer resultados**. Creo que **la tecnología es un diferenciados** y hace que los productos o servicios sean 100% medibles. 
+> **La tecnología está orientada en ofrecer resultados**. Creo que **la tecnología es un diferenciador** y hace que los productos o servicios sean 100% medibles. 
 
 Trabajo con las mejores herramientas y lenguajes de programación disponibles, y en el área de marketing digital mi objetivo es medir el desempeño real de las campañas, realizar ajustes y que el cliente tenga el control de sus conversiones.
 
@@ -59,3 +61,11 @@ Antes que nada el acrónimo SEO, significa Search Engine Optimization que en esp
 #### ¿Para qué me sirve el SEM?
 
 SEM significa Search Engine Marketing, esto en español se traduce como **Mercadotecnia en Motores de Búsqueda**, que es básicamente posicionamiento de sitios web a través de pago por publicidad. El SEM nos ayuda a crear **campañas de publicidad de pago** que se distribuye a un público objetivo, aumentando drásticamente la visibilidad y porcentaje de convertir clientes.
+
+
+#### Enlaces relacionados
+
+- [Perfil profesional](https://arthurolg.com) 
+- [Perfil de LinkedIn](https://www.linkedin.com/in/lgzarturo)
+- [GitHub](https://github.com/lgzarturo)  
+- [Mi Twitter](https://twitter.com/lgzarturo)
