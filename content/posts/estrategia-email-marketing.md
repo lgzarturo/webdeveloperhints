@@ -14,7 +14,7 @@ El objetivo es conectar con tus clientes y crear una presencia online para que g
 
 El Email Marketing es una técnica de promoción que se usa como una herramienta poderosa, económica y muy útil para el inbound marketing. La meta es trabajar con la fidelidad de tus listas de clientes y ganarte la confianza de tu público objetivo. Es una técnica que se utiliza en el marketing digital para tener un acercamiento más directo con los clientes por medio de mensajes de correo electrónico.
 
-El objetivo que nos da una herramienta muy poderosa; es que en poco tiempo puedes construir una lista de correos con las personas que están interesadas en tus productos o servicios y trabajar con esos posibles clientes es una parte fundamental del mercadeo por internet ya que te brinda un canal de comunicación directo con tus futuros clientes.
+El objetivo que nos da una herramienta muy poderosa; es que en poco tiempo puedes construir una lista de correos con las personas que están interesadas en tus productos o servicios y trabajar con esos posibles clientes es una parte fundamental del mercadeo por internet, ya que te brinda un canal de comunicación directo con tus futuros clientes.
 
 Hoy en día hay muchas herramientas que te ayudan a que esta labor sea más fácil y económico. Otro objetivo es desarrollar una estrategia de marketing y hacer ajustes hasta que obtengas resultados positivos. A mí en lo personal me gusta trabajar con [MailChimp](https://mailchimp.com/), su principal función es ayudarnos a que nuestras campañas tengan éxito y sean entregadas correctamente.
 
@@ -31,7 +31,7 @@ Fidelizar es parte importante del proceso del inbound marketing y en muy importa
 - Medir con estadísticas el estado de tus campañas.
 - Manejar una lista de hasta 2,000 suscriptores.
 - Ahorrar tiempo y esfuerzo en el envío de tus boletines.
-- Ahora ¿porqué usar el email?
+- Ahora ¿por qué usar el email?
 - Sencillo, en la actualidad el uso de los teléfonos inteligentes ha generado que la mayoría de gente lleve alguna pieza de tecnología en su bolsillo con el cual podrá revisar su correo electrónico.
 
 El correo electrónico se ha convertido en el medio de comunicación más usado y prácticamente todas personas que naveguen por internet poseen una cuenta de correo electrónico.
@@ -108,7 +108,7 @@ Es importante recordar qué hay elementos clave para desarrollar una estrategia 
 -   **Automatización:** Debemos definir ciertas tareas automatizadas para entregar el mensaje ideal al público correcto y justamente en el momento perfecto.
 -   **Análisis:** Debido a que el marketing digital es 100% medible, debemos analizar en tiempo real las acciones realizadas y generar mejoras continuas para maximizar los resultados con la menor inversión posible.
 
-El Inbound Marketing no sólo se centra en conseguir clientes finales. Entre los beneficios de esta metodología destacan los siguientes aspectos:
+El Inbound Marketing no solo se centra en conseguir clientes finales. Entre los beneficios de esta metodología destacan los siguientes aspectos:
 
 -   Mantener a los **clientes satisfechos**.
 -   Ofrecerles **información** que pueda resultarles **útil**.

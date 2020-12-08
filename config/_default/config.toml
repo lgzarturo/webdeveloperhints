@@ -10,7 +10,7 @@ defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 summaryLength = 70
-copyright = "Arturo López © 2020, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+copyright = "Arturo López © 2020, All Rights Reserved - imágenes gracias a www.freepik.es" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
 rssLimit = 100
@@ -51,7 +51,7 @@ pygmentsCodeFences = true
   lineNos = true
   lineNumbersInTable = true
   noClasses = false
-  style = "monokai" # dark themes: monokai, api, fruity, native, rrt, swapoff
+  style = "monokai"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

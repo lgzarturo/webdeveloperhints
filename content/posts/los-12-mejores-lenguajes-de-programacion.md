@@ -64,3 +64,7 @@ Google no se queda atrás, ellos son una de las compañías de tecnología más 
 > Creado por Google, Go incorpora soporte para programas que necesitan intercambiar información mientras se ejecuta de manera concurrente en diferentes equipos.
 
 Con eso cerramos el listado de los lenguajes de programación más populares desde mi punto de vista, cabe mencionar que en este listado [Ruby](https://www.ruby-lang.org/es/) no me parece tan usado hoy en día, igual y me equivoco, seguramente hay muchos más lenguajes que son populares pero en el entorno laboral es complicada la adopción de nuevas tecnologías.
+
+                                  
+Más información:
+https://www.tiobe.com/tiobe-index/

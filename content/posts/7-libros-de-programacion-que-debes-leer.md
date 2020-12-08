@@ -9,7 +9,7 @@ series: ["Tips para programar"]
 favorite: true
 ---
 
-Desde mi punto de vista la programación de aplicaciones es una forma de arte que está cambiando la manera en cómo interactuar con la información que nos rodea. Poco a poco las computadoras han cambiado la manera en cómo nos comunicamos y el oficio de programador cada vez se vuelve más demandante.
+Desde mi punto de vista la programación de aplicaciones es una forma de arte que está cambiando la manera en como interactuar con la información que nos rodea. Poco a poco las computadoras han cambiado la manera en como nos comunicamos y el oficio de programador cada vez se vuelve más demandante.
 
 Como programador debes estar actualizado con las tecnologías que revolucionan el mercado y que marcan una tendencia en la forma de desarrollar las aplicaciones del futuro.
 
@@ -20,7 +20,7 @@ Sin importar el lenguaje o la tecnología que más te guste el crecimiento profe
 1. Antes de escribir código, dedica unas horas en analizar el problema y buscar diferentes soluciones.
 2. Al recopilar requerimientos debes definir metas realistas para crear un producto mínimo viable.
 3. Divide en piezas más pequeñas los problemas, piensa en micro servicios, programación funcional, estructuras de datos y la orientación de objetos como herramientas comunes en todos los lenguajes. 
-4. Debes comentar tu código cuando algo requiere de explicaciones que no son obvias o descriptivas. Piensa mejor en escribir código que sea auto descriptivo.
+4. Debes comentar tu código cuando algo requiere de explicaciones que no son obvias o descriptivas. Piensa mejor en escribir código que sea autodescriptivo.
 5. Usa convenciones en la estructura del proyecto así como la nomenclatura de los archivos de código fuente.
 6. Mantén organizado tu código, aplica estándares de desarrollo.
 7. Siempre realiza pruebas, automatiza, diseña, planea y ejecuta todas las pruebas que consideres necesarias.

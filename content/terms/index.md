@@ -76,6 +76,6 @@ Estas condiciones gobiernan la relación entre **webdeveloperhits** y usted, y n
 
 Si usted no cumple estas condiciones, y nosotros no tomamos acción inmediata, ello no implica renuncia alguna a cualquier derecho que pudiera correspondernos (como iniciar una acción en el futuro).
 
-Si cualquier disposición de estas condiciones resultare inejecutable, ello no afectará la validez del resto de las condiciones.
+Si cualquier disposición de estas condiciones resultaré inejecutable, ello no afectará la validez del resto de las condiciones.
 
 Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con **webdeveloperhits**, favor de enviar un correo a me@webdeveloperhits.com

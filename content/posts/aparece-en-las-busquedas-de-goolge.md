@@ -10,13 +10,13 @@ series: ["Posicionamiento web"]
 
 ## ¿Cómo hacer para aparecer en las búsquedas de Google?
 
-En este artículo hablare de los puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en los buscadores. 
+En este artículo hablaré de los puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en los buscadores. 
 
 ### Conoce como optimizar tu contenido para Internet
 
 Para que Google pueda indexar y catalogar tu sitio web, es necesario que apliques una estrategia de optimización "**SEO On-Page**" en cada página de manera individual y es que a los buscadores les gusta que pongas atención a los detalles, así como cumplir con los estándares con un diseño estructurado.
 
-El objetivo de este tipo de estrategias de optimización SEO se basa en **aumentar el ranking en los buscadores**, clasificar tu sitio de manera más rápida, lograr que cada página sea indexada y poder sobre salir en las búsquedas orgánicas y lograr maximizar la probabilidad de que al ser más visible **aumenten las visitas**.
+El objetivo de este tipo de estrategias de optimización SEO se basa en **aumentar el ranking en los buscadores**, clasificar tu sitio de manera más rápida, lograr que cada página sea indexada y poder sobresalir en las búsquedas orgánicas y lograr maximizar la probabilidad de que al ser más visible **aumenten las visitas**.
 
 Sin embargo, no todo es miel y dulzura, tendrás que tener paciencia y perseverancia, **tomártelo con calma y trabajar mucho**, ya que deberás entender así como comprender cuál es tu público objetivo, realizar muchas pruebas y analizar los resultados. Y es que en esto del posicionamiento no hay fórmulas mágicas, todo se basa en probar y analizar.
 
@@ -32,7 +32,7 @@ Ahora sí, comencemos con los puntos que te ayudaran a mejorar tú **SEO On-Page
 2. **Descripción de la página** o Meta descripción: Aquí debes poner sobre que trata la página, es el resumen que se muestra en los resultados de búsqueda, debes explicar al usuario porque dar clic en tu página, **no debes exceder los 156 caracteres** y de igual manera debes incluir una palabra clave.
 3. **Estructura del contenido**: Debes crear un contenido con estructura jerárquica haciendo uso de las etiquetas H1, H2, H3, H4, H5, H6. Sirven para indicar el título, subtítulos, títulos relevantes, **resaltar contenido de importancia** para dividir párrafos.
 4. **Optimiza imágenes y videos**: Lo primero que debes de considerar es reducir el tamaño de los archivos para mejorar la carga de la página. Otro aspecto a considerar y que en muchas ocasiones no se presta mucha atención, es _hacer uso de los atributos "**alt**" y "**title**"_, úsalos siempre, ya que nos ayudan a describir el contenido, puedes incluir palabras clave que ayuden al posicionamiento y los buscadores también indexan este tipo de archivos.
-5. **Direcciones URLs fáciles de recordar**: Debes tener 100% el control de las direcciones urls de tu sitio, deben ser personalizadas, únicas, contener palabras clave, _las palabras las puedes separar con guiones medios **"-"**_. Esto nos da como resultado direcciones más legibles y fáciles de recordar.
+5. **Direcciones URL fáciles de recordar**: Debes tener 100% el control de las direcciones urls de tu sitio, deben ser personalizadas, únicas, contener palabras clave, _las palabras las puedes separar con guiones medios **"-"**_. Esto nos da como resultado direcciones más legibles y fáciles de recordar.
 6. **La URL Canónica**: Evita generar contenido duplicado, actualmente con el uso de la tecnología "**AMP**" es común que los sitios tengan dos versiones de una página web, la versión de escritorio y la versión "**AMP**" optimizada para navegadores móviles. Debes definir cuál de las dos es la versión original y establecer la etiqueta canónica con la URL original en ambas páginas, para **evitar que los buscadores cataloguen tu contenido como duplicado**.
 7. **El Archivo Robots.txt**: No es más que un archivo de nombre "**robots.txt**" que se ubica en la raíz del sitio y nos ayuda a decirle a los buscadores cuales robots tienen permiso de manera selectiva para recorrer o indexar las páginas de nuestro sitio web.
 8. **Diseño responsivo**: Cada vez es más común hacer uso de la navegación desde dispositivos móviles y en la actualidad es de vital importancia que nuestras **páginas sea adaptables a diferentes tamaños de pantalla**. 
@@ -43,4 +43,4 @@ Ahora sí, comencemos con los puntos que te ayudaran a mejorar tú **SEO On-Page
 
 Ahora ya conoces cuales son algunos de los puntos a tener en cuenta para mejorar tu sitio web, sabemos que es información muy técnica y que en ocasiones es difícil comprender todo lo relacionado con la optimización SEO.
 
-Si eres un experto de marketing, SEO o programador, ayúdanos con tu comentario, ¿Que otras ideas implementas para mejorar el posicionamiento web? Esperamos que la información sea de ayuda.
+Si eres un experto de marketing, SEO o programador, ayúdanos con tu comentario, ¿Qué otras ideas implementas para mejorar el posicionamiento web? Esperamos que la información sea de ayuda.

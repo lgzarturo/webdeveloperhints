@@ -30,7 +30,7 @@ Pues bien, dicho esto te invito a que conozcas la plataforma, la cual cuenta con
 
 Además, déjame explicarte cómo puedes beneficiarte con [***StarTalent***](https://startalent.mx/). El más obvio de todos es que la herramienta cuenta con un plan sin costo, está administrada por ***Headhunters especializados***, es una empresa que crea contenido de calidad, es una bolsa de trabajo en continuo crecimiento.
 
-[***StarTalent***](https://startalent.mx/) está dividió en dos segmentos: La parte de **candidatos** que es un servicio de bolsa de empleo abierta al público y la parte de **empresas** que ofrece el servicio de publicación y difusión de vacantes, así, como una herramienta de búsqueda de candidatos.
+El sistema está dividió en dos segmentos: La parte de **candidatos** que es un servicio de bolsa de empleo abierta al público y la parte de **empresas** que ofrece el servicio de publicación y difusión de vacantes, así, como una herramienta de búsqueda de candidatos.
 
 > Como usuario Empresarial podrás acceder y gestionar a todos los candidatos, crear un historial y *definir tu proceso de reclutamiento*.
 

@@ -2,7 +2,7 @@
 author: "Arturo López"
 title: "5 Formas de escribir código limpio"
 date: 2019-10-15
-description: "Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones"
+description: "Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar una evolución sana en el desarrollo de aplicaciones"
 tags: ["código limpio"]
 categories: ["programación", "desarrollo"]
 series: ["Tips para programar"]
@@ -11,13 +11,13 @@ favorite: true
 
 ## Principios básicos para crear código libre de errores
 
-Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar un evolución sana en el desarrollo de aplicaciones.
+Técnicas para crear código libre de errores para mejorar él mantenimiento y asegurar una evolución sana en el desarrollo de aplicaciones.
 
 ### Buenas prácticas de programación
 
-**¿Porque es necesario aplicar buenas prácticas de programación?** Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura sobre desarrollo de nuevas técnicas o metodologías de programación.
+**¿Por qué es necesario aplicar buenas prácticas de programación?** Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura sobre desarrollo de nuevas técnicas o metodologías de programación.
 
-Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de cómo hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
+Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de como hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
 
 Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como "__código pythonico__". 
 
@@ -35,7 +35,7 @@ De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen
 - Los errores nunca deberían dejarse pasar silenciosamente.
 - A menos que hayan sido silenciados explícitamente.
 - Frente a la ambigüedad, rechaza la tentación de adivinar.
-- Debería haber una -y preferiblemente sólo una- manera obvia de hacerlo.
+- Debería haber una -y preferiblemente solo una- manera obvia de hacerlo.
 - Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.
 - Ahora es mejor que nunca.
 - Aunque nunca es a menudo mejor que ya mismo.
@@ -43,9 +43,9 @@ De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen
 - Si la implementación es fácil de explicar, puede que sea una buena idea.
 - Los espacios de nombres (__namespaces__) son una gran idea ¡Hagamos más de esas cosas!
 
-Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (por así decirlo) sobre la manera en cómo sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
+Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (por así decirlo) sobre la manera en como sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
 
-Recuerda que la practica hace al maestro y en el caso de los programadores, mientras más código escribas más practica tendrás para refactorizar, sin embargo mientras más repites el mismo código entonces algo está haciendo mal. Para este párrafo lo mejor es aplicar los principios KISS & DRY.
+Recuerda que la práctica hace al maestro y en el caso de los programadores, mientras más código escribas más practica tendrás para refactorizar, sin embargo mientras más repites el mismo código entonces algo está haciendo mal. Para este párrafo lo mejor es aplicar los principios KISS & DRY.
 
 ### KISS (Keep It Simply Stupid)
 
@@ -65,7 +65,7 @@ En español "__Mantenlo Sencillo, ¡Estúpido!__", es un principio que recomiend
 
 ### DRY (Don’t Repeat Yourself)
 
-En español “__No te repitas__”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea re-utilizable de modo que no debería ser duplicada la funcionalidad.
+En español “__No te repitas__”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea reutilizable de modo que no debería ser duplicada la funcionalidad.
 
 Factores que se intentan minimizar con este principio:
 - Duplicidad de código
