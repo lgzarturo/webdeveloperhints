@@ -5,7 +5,7 @@ date: 2019-09-10
 description: "Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa"
 tags: ["software"]
 categories: ["startalent", "software ats"]
-series: ["Proyecto StarTalent ATS"]
+series: ["Proyectos"]
 ---
 
 Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa.

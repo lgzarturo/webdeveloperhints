@@ -1,18 +1,16 @@
 ---
 author: "Arturo López"
-title: "Beautiful Dark Theme with Font Comic Style - This theme is for a night programmer."
+title: "Beautiful Dark Theme"
 date: 2020-12-08
-description: "Tema para visual studio code."
-tags: ["theme", "dark theme", "ide"]
+description: "The Lone Coder Theme tema para visual studio code."
+tags: ["theme"]
 categories: ["vscode"]
-series: ["Posicionamiento web", "Marketing efectivo"]
+series: ["Herramientas para programar"]
 ---
-                      
-# The Lone Coder Theme for VSCode
-
-The Lone Coder, es un tema obscuro para Visual Studio Code.
 
 ![The Lone Coder](https://github.com/lgzarturo/the-lone-coder/raw/master/docs/screenshot-theme.jpg "Tema para visual studio code")
+
+The Lone Coder, es un tema obscuro para Visual Studio Code. La idea del tema es tener colores más contrastados en un fondo obscuro y explorar la manera en como se estructura el código de los temas en los diversos entornos de desarrollo.
                                           
 Puedes ver el código fuente y crear tu propio tema, en el siguiente enlace:
 - https://github.com/lgzarturo/the-lone-coder-vscode

@@ -4,17 +4,17 @@ title: "Ideas para mejorar el posicionamiento web"
 date: 2020-12-07
 description: "En este artículo quiero exponer algunas ideas y recursos que podemos usar para el mejorar el posicionamiento web de una empresa."
 tags: ["google"]
-categories: ["marketing", "seo", "trafico web"]
-series: ["Posicionamiento web", "Marketing efectivo"]
+categories: ["seo"]
+series: ["Posicionamiento web"]
 ---
-
-# Pasos para promocionar una empresa en línea.
 
 ![SEO y tráfico web](https://i.imgur.com/FQnVWWo.png "Mejora el posicionamiento de tu sitio web")
 
 Un sitio en línea puede ser la puerta de entrada a un mercado digital, _funcionando las 24 horas del día, los 365 días del año_. Por eso mantener una presencia latente en línea es de suma importancia y en algunas empresas es un trabajo de tiempo completo.
 
 Para comercializar una empresa, existen varias formas de promocionar los servicios o productos hacia cliente potenciales.
+
+## Pasos para promocionar una empresa en línea.
 
 - **Búsqueda orgánica** (natural). Aprovechando los motores de búsqueda, se puede optimizar el sitio para que con el tiempo empiece a figurar en los resultados de las búsquedas que tienen relación con los productos o servicios de la empresa.
 
