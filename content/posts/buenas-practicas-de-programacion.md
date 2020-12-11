@@ -11,83 +11,48 @@ favorite: true
 
 ¿Por qué es necesario aplicar buenas prácticas de programación?
 
-Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura aplicados en el desarrollo de nuevos modelos, técnicas o metodologías de programación, prefiero estos libros a los que te enseñan a programar.
+Como programadores una de las tareas más aburridas es la de documentar los proyectos. Sin embargo es muy valioso contar con una buena documentación al momento en el que surgen los problemas.
 
-> Siempre trato de pensar como un usuario, criticar todo el software que vea, pero pensando en cómo hacerlo mejor, trato de pulir día con día, mi pensamiento analítico y formular una crítica constructiva que me deje algo en que pensar.
+Cuando desarrollamos software es importante incluir el proceso de documentar al momento de escribir el código, cuando las ideas aún están frescas. Nunca después de terminar el proyecto, ya que puede frustrar darse cuenta de que en un breve periodo de tiempo lo que expresamos en el código ya se nos ha olvidado.
 
-Basado en esto, me gusta adoptar buenos principios de programación y adaptarlos a mi manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como *“código pythonico”*. 
+Es importante adoptar buenas prácticas para escribir el código y la documentación.
 
-De igual manera uno de los desarrolladores de Python Tim Peters escribió él [**Zen de Python**](http://www.python.org/dev/peps/pep-0020/), como una serie de principios que definen como deberían pensar los programadores.
+Hay un dicho que me gusta porque menciona que un programador con un excelente estilo para escribir código legible no necesita documentación.
 
-- Bello es mejor que feo.
-- Explícito es mejor que implícito.
-- Simple es mejor que complejo.
-- Complejo es mejor que complicado.
-- Plano es mejor que anidado.
-- Disperso es mejor que denso.
-- La legibilidad cuenta y mucho.
-- Los casos especiales nunca son tan especiales, como para quebrantar los principios.
-- Lo práctico gana a la pureza.
-- Los errores nunca deberían dejarse pasar silenciosamente.
-- A menos que hayan sido silenciados explícitamente.
-- Frente a la ambigüedad, rechaza la tentación de adivinar.
-- Debería haber una *-y preferiblemente solo una-* manera obvia de hacerlo.
-- Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.
-- Ahora es mejor que nunca.
-- Aunque nunca es a menudo mejor que ya mismo.
-- Si la implementación es difícil de explicar, es una mala idea.
-- Si la implementación es fácil de explicar, puede que sea una buena idea.
-- Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
+> El buen código es la mejor documentación: cuando estés a punto de agregar un comentario pregúntate “¿Qué puedo mejorar en el código para que este comentario no sea necesario?”, mejora el código y luego documenta lo más claro posible. - Steve McConnell
 
-Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (*por así decirlo*) sobre la manera en como sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
 
-Recuerda que la práctica hace al maestro y en el caso de los programadores, mientras más código escribas más practica tendrás para refactorizar, sin embargo mientras más repites el mismo código entonces algo está haciendo mal. Para este párrafo lo mejor es aplicar los principios **KISS & DRY**.
+Una de las cosas que debes de recordar es que la memoria te puede fallar y no siempre trabajaras solo. Para lo cual escribir buen código es una obligación, habla bien de ti y demuestra respeto hacia los demás. La mayor parte del tiempo nos la pasamos revisando código que escriben otros programadores y es motivo de frustración intentar adivinar el objetivo de un programa sin documentación.
 
-### KISS (Keep It Simply Stupid)
+Imagínate que las librerías de código que utilizas o el framework que quieres aprender no tienen documentación, ¡sería aún más complicado aprender a programar no!, pues justamente por eso todo el código que produces deberá estar muy bien estructurado y con su documentación.
 
-En español *“Mantenlo Sencillo, ¡Estúpido!”*, es un principio que recomienda que el programador debe planear el desarrollo de código de la manera más simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
+La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos que leer mucho código y programar lo esencial, intentamos crear aplicaciones funcionales con el menor código que sea posible.
 
-- Todo debe ser lo más simple posible, no solo simple - *Albert Einstein*
-- La simplicidad es la sofisticación extrema - *Leonardo Da Vinci*
-- La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
+“La legibilidad cuenta” - Adoptar una convención para la escritura de código nos ayuda a que el mantenimiento o refactorización sean procesos menos dolorosos, sin dolores de cabeza. Haciendo que nuestro código sea más legible para otros programadores como para nosotros mismos.
 
-6 paso para aplicar el principio KISS
-- Aplica la primera solución que se te ocurra.
-- Si todo funciona bien, elimina lo superfluo.
-- Simplifica el resto del código.
-- Documenta solo lo que no es evidente.
-- Si algo no evidente simplifícalo, el objetivo es eliminar los comentarios.
-- Revisa, evalúa y vuelve a simplificar.
+> “Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso” – *Bill Gates*
 
-### DRY (Don’t Repeat Yourself)
+### Ideas para mejorar como programador
 
-En español “No te repitas”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea reutilizable de modo que no debería ser duplicada la funcionalidad.
+- Nombre de variables, clases o métodos más descriptivos.
+- Siempre pon atención a la indentación del código.
 
-Factores que se intentan minimizar con este principio.
-- Duplicidad de código
-- Disminución en la dificultad de los cambios.
-- Mayor eficiencia para la evolución posterior.
-- Mejorar la claridad del software.
-- Evitar inconsistencias.
+> Todo debe ser lo más simple posible, no solo simple - *Albert Einstein*
 
-Sin importar los principios que el programador aplique, lo que queda claro es que son para evitar que el código se vuelva complicado y costoso de mantener o actualizar, he aquí algunos de los errores más comunes:
+- Crea o adopta un estándar para escribir código.
+- Decide entre tabulación o espacios.
 
-- Código duplicado, existe código idéntico o muy similar en más de una ubicación.
-- Clases, Métodos, funciones, módulos o procedimientos demasiado grandes.
-- Una lista muy grande de parámetros en un procedimiento o función empeora la legibilidad y la calidad del código.
-- Una clase que usa excesivamente métodos de otra clase.
-- Dependencias en detalles de implementación de otra clase.
-- Una clase que sobrescribe un método de una clase base de tal manera que el contrato de la clase base no es honrado por la clase derivada.
-- Clases que hacen muy poco, son consideradas como clases perezosas.
-- El uso forzado de patrones de diseño demasiado complicados, donde uno más simple sería suficiente.
-Identificadores excesivamente cortos o largos. El nombre de una variable deberá reflejar su función, a menos que sea obvio.
-- Excesivo uso de literales, estos deben codificarse como constantes con nombre, para mejorar la legibilidad y para evitar errores de programación.
-- Código espagueti, denominado así a cualquier código con un control de flujo complejo e incomprensible. Es decir, código muy complicado de mantener y documentar que se vuelve una pesadilla hasta para su creador.
+> “Codifica siempre como si el tipo que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives.” - Rick Osborne
 
-### Limpieza de código
+- Longitud de línea no mayores a 120 caracteres.
+- Agrupar código en funciones o clases.
 
-Una vez que adoptamos los principios en el desarrollo de software, solo sería necesario acostumbrarnos a la técnica de Refactorización como un método para simplificar el código.
+> La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
 
-La Refactorización se aplica como una técnica para reestructurar la estructura interna del código fuente, sin cambiar su comportamiento o el resultado. Esta técnica también es usada en parte del mantenimiento de código donde no se arreglan errores, ni se añade funcionalidad y en el cual es objetivo es mejorar la comprensión del código, eliminar código muerto, para así facilitar el mantenimiento en el futuro.
+- Adopta buenas prácticas para documentar tu código.
+- Crea comentarios en el código que sumen valor.
 
-Al aplicar la refactorización como un proceso separado, nos aseguramos de no introducir errores al sistema y nos ayuda a identificar posibles bugs debido a que el código estaba mal planeado, a esto se le conoce como limpieza de código.
+> La simplicidad es la sofisticación extrema - *Leonardo Da Vinci*
+
+- Nunca documentes el problema; mejor soluciónalo y después codifícalo.
+
