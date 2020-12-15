@@ -6,6 +6,7 @@ description: "Conoce StarTalent, comienza a publicar tus vacantes y atrae perfil
 tags: ["software"]
 categories: ["startalent", "software ats"]
 series: ["Proyectos"]
+type: "post"
 ---
 
 Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa.

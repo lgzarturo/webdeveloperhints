@@ -7,6 +7,7 @@ tags: ["web-design"]
 categories: ["desarrollo"]
 series: ["Proyectos"]
 favorite: true
+type: "post"
 ---
 
 ![Tips de desarrollo](https://i.imgur.com/6AA3GPl.png "Etapas del desarrollo de proyectos")

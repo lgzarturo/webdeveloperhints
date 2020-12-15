@@ -6,6 +6,7 @@ description: "En este artículo quiero exponer algunas ideas y recursos que pode
 tags: ["google"]
 categories: ["seo"]
 series: ["Posicionamiento web"]
+type: "post"
 ---
 
 ![SEO y tráfico web](https://i.imgur.com/FQnVWWo.png "Mejora el posicionamiento de tu sitio web")

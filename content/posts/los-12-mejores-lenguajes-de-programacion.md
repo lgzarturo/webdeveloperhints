@@ -6,6 +6,7 @@ description: "Este es mi listado de los lenguajes que considero son los más pop
 tags: ["lenguajes de programación"]
 categories: ["programación", "desarrollo"]
 series: ["Tips para programar"]
+type: "post"
 ---
 
 Este es mi listado de los lenguajes que considero son los más populares en la actualidad.

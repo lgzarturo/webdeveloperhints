@@ -6,6 +6,7 @@ description: "Demuestra tu profesionalismo, versatilidad y el emprendedor que ll
 tags: ["software"]
 categories: ["startalent", "ats", "candidatos"]
 series: ["Proyectos"]
+type: "post"
 ---
 
 En la actualidad la competencia por los mejores empleos es cada vez más brutal y una ventaja es que podemos acceder a mejores herramientas que nos expongan como personas comprometidas y que aprovechamos la tecnología a nuestro favor. 

@@ -6,6 +6,7 @@ description: "Conecta con tus clientes, creamos tu presencia online para que gan
 tags: ["inbound marketing", "estrategia email marketing"]
 categories: ["marketing", "seo", "sem", "email marketing"]
 series: ["Posicionamiento web"]
+type: "post"
 ---
 
 El objetivo es conectar con tus clientes y crear una presencia online para que ganes mayor visibilidad y reconocimiento de marca.

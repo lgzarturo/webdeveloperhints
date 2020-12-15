@@ -6,6 +6,7 @@ description: "En este artículo quiero exponer los pasos que he adoptado al mome
 tags: ["google"]
 categories: ["marketing", "seo", "sem"]
 series: ["Posicionamiento web", "Marketing efectivo"]
+type: "post"
 ---
 
 En internet las empresas buscan resaltar sus productos o marcas, sin embargo, son pocas las que llevan una metodología adecuada.

@@ -6,6 +6,7 @@ description: "Puntos importantes que debes tener en cuenta para optimizar tu con
 tags: ["google"]
 categories: ["marketing", "seo"]
 series: ["Posicionamiento web"]
+type: "post"
 ---
 
 ## ¿Cómo hacer para aparecer en las búsquedas de Google?

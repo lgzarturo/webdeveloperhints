@@ -6,6 +6,7 @@ description: "The Lone Coder Theme tema para visual studio code."
 tags: ["theme"]
 categories: ["vscode"]
 series: ["Herramientas para programar"]
+type: "post"
 ---
 
 ![The Lone Coder](https://github.com/lgzarturo/the-lone-coder/raw/master/docs/screenshot-theme.jpg "Tema para visual studio code")

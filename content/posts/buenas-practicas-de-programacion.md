@@ -7,6 +7,7 @@ tags: ["código limpio"]
 categories: ["programación"]
 series: ["Tips para programar"]
 favorite: true
+type: "post"
 ---
 
 ¿Por qué es necesario aplicar buenas prácticas de programación?

@@ -7,6 +7,7 @@ tags: ["código limpio"]
 categories: ["programación", "desarrollo"]
 series: ["Tips para programar"]
 favorite: true
+type: "post"
 ---
 
 Desde mi punto de vista la programación de aplicaciones es una forma de arte que está cambiando la manera en como interactuar con la información que nos rodea. Poco a poco las computadoras han cambiado la manera en como nos comunicamos y el oficio de programador cada vez se vuelve más demandante.
