@@ -6,6 +6,7 @@ description: "El diseño web adaptable, es una filosofía de diseño y desarroll
 tags: ["web-design"]
 categories: ["Diseño web"]
 series: ["Diseño responsivo"]
+type: "post"
 ---
 
 > El diseño no es solo cómo se ve y se siente. _El diseño es cómo funciona_ - **Steve Jobs** 

@@ -4,7 +4,7 @@ languageCode = "es"
 title = "Web Developer Hints"
 theme = "hugo-dusk"
 canonifyurls = true
-paginate = 8
+paginate = 10
 enableRobotsTXT = true
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
@@ -16,7 +16,6 @@ enableEmoji = true
 rssLimit = 1000
 enableGitInfo = true
 googleAnalytics = "UA-42486999-5"
-disqusShortname = "web-developer-hints"
 SectionPagesMenu = "main"
 pygmentsStyle = "vim" # other dark style options: vim, fruity, monokai
 pygmentsCodeFences = true
@@ -38,6 +37,7 @@ pygmentsCodeFences = true
   utterancesRepo="lgzarturo/webdeveloperhints" # Utterances is enabled when this param is set
   utterancesTheme="github-dark" # Default: github-dark
   utterancesIssueTerm="pathname" # Default: pathname
+  mainSections="post"
 
 [params.meta]
   keywords = "Desarrollo web, programación, lenguajes de programación"
