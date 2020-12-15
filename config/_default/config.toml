@@ -24,7 +24,7 @@ pygmentsCodeFences = true
 [Author]
   name = "Arturo López"
 
-[Params]
+[params]
   author = "Arturo López"
   description = "Sitio web con artículos sobre desarrollo web, lenguajes de programación y técnicas de programación."
   paginationSinglePost = true
