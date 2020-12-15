@@ -35,6 +35,9 @@ pygmentsCodeFences = true
   twitter = "lgzarturo"
   linkedin = "lgzarturo"
   theme_colors = "default-dark"
+  utterancesRepo="webdeveloperhints" # Utterances is enabled when this param is set
+  utterancesTheme="github-dark" # Default: github-dark
+  utterancesIssueTerm="pathname" # Default: pathname
 
 [params.meta]
   keywords = "Desarrollo web, programación, lenguajes de programación"
