@@ -7,6 +7,7 @@ tags: ["código limpio"]
 categories: ["programación", "desarrollo"]
 series: ["Tips para programar"]
 favorite: true
+type: "post"
 ---
 
 ## Principios básicos para crear código libre de errores
