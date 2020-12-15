@@ -24,11 +24,11 @@ talksGroupByDate = "2019" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Arturo López"
-email = "me@arthurolg.com"
+email = "arthurolg@gmail.com"
 whoami = "Desarrollador de Software"
 useGravatar = true
 location = "Cancún, México"
-organization = "Arthurolg.com"
+organization = "arthurolg.com"
 link = "https://arthurolg.com"
 
 # sidebar
@@ -40,7 +40,7 @@ enableSidebarCategories = true
 enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc
 enableTocSwitch = true # single page table of contents visibility switch
-itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
+itemsPerCategory = 6 # maximum number of posts shown in the sidebar.
 
 # footer
 showPoweredBy = false # show footer text: Powered by Hugo and Zzo theme
@@ -51,14 +51,14 @@ themeOptions = ["dark", "hacker", "light", "solarized", "custom"] # select optio
 
 # service
 baiduAnalytics = "" # alternative of google analytics
-enableBusuanzi = false # if set true, total page view, total unique visitors show up in the footer.
+enableBusuanzi = true # if set true, total page view, total unique visitors show up in the footer.
 busuanziSiteUV = true # unique visitors (total number of visitors)
 busuanziSitePV = true # site total page view count
 busuanziPagePV = true # post view count
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "web-developer-hints"
 commento = true
 
 [utterances]       # https://utteranc.es/
@@ -66,7 +66,7 @@ owner = "lgzarturo"              # Your GitHub ID
 repo = "webdeveloperhints"               # The repo to store comments
 
 [socialOptions] # if set, social icons will show up.
-email = "mailto:me@arthurolg.com"
+email = "mailto:arthurolg@gmail.com"
 facebook = "https://www.facebook.com/lgzarturo"
 twitter = "https://twitter.com/lgzarturo"
 github = "https://github.com/lgzarturo"
