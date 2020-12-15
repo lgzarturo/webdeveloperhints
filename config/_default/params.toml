@@ -63,7 +63,7 @@ commento = true
 
 [utterances]       # https://utteranc.es/
 owner = "lgzarturo"              # Your GitHub ID
-repo = "webdeveloperhints"               # The repo to store comments
+repo = "lgzarturo/webdeveloperhints"               # The repo to store comments
 
 [socialOptions] # if set, social icons will show up.
 email = "mailto:arthurolg@gmail.com"
