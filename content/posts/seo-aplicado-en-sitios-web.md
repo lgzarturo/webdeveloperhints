@@ -27,17 +27,12 @@ Para comercializar una empresa, existen varias formas de promocionar los servici
 
 - **Marketing por correo electrónico**. Mediante una lista de correos de sus potenciales clientes, se pueden generar campañas de correo electrónico, para informar de los productos, promociones o noticias que considere de interés para sus clientes.
 
-Para empezar a promocionar un sitio, yo recomiendo empezar a limpiar el sitio, acomodar y categorizar el contenido, crear enlaces que vinculen con otros sitios y optimizar el sitio para la búsqueda orgánica. 
+Para empezar a promocionar un sitio, yo recomiendo empezar a limpiar el sitio, acomodar y categorizar el contenido, crear enlaces que vinculen con otros sitios y optimizar el sitio para la búsqueda orgánica.
 
 La búsqueda orgánica nos ofrece un recurso gratuito de promoción basado en los resultados y la relevancia del sitio. Sin embargo, la búsqueda natural es un recurso muy complicado, ya que hay que trabajar diario en la optimización del sitio, buscando técnicas que nos ayuden a seguir escalando en los resultados, sin ser penalizados por el motor de búsqueda o incurrir en prácticas que el algoritmo de indexación considere inadecuadas.
 
 Lo ideal sería que su empresa se listará en la primera página para atraer más clientes. Sin embargo, competir en el posicionamiento de un sitio basado en su búsqueda natural es un recurso que muy pocas veces ofrece resultados inmediatos, es muy complicado de mantener y hay mucha competencia sea cual sea el giro de la empresa, recordemos que en internet todo es global y las búsquedas pueden regresar millones de empresas que ofrecen productos o servicios similares a los suyos.
 
-> Hay que recordar que los buscadores se van actualizando, mejoran sus algoritmos y entiende mejor los sitios que visitan, es por ello que cada día debemos mejorar nuestros sitios web, definirles una mejor estructura, con buenas prácticas para el posicionamiento, con contenido relevante y con muchos enlaces externos e internos. 
+> Hay que recordar que los buscadores se van actualizando, mejoran sus algoritmos y entiende mejor los sitios que visitan, es por ello que cada día debemos mejorar nuestros sitios web, crear una mejor estructura, buenas prácticas para el posicionamiento, contenido relevante y con muchos enlaces externos e internos que sean relevantes.
 
 Yo creo que teniendo un sitio que cumpla con las expectativas de los motores de búsqueda, es la manera adecuada en cómo se puede aprovechar la posición natural y obtener mejores resultados.
-
-
-
-
-

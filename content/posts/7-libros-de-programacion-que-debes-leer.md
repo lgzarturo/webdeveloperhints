@@ -20,16 +20,16 @@ Sin importar el lenguaje o la tecnología que más te guste el crecimiento profe
 
 1. Antes de escribir código, dedica unas horas en analizar el problema y buscar diferentes soluciones.
 2. Al recopilar requerimientos debes definir metas realistas para crear un producto mínimo viable.
-3. Divide en piezas más pequeñas los problemas, piensa en micro servicios, programación funcional, estructuras de datos y la orientación de objetos como herramientas comunes en todos los lenguajes. 
-4. Debes comentar tu código cuando algo requiere de explicaciones que no son obvias o descriptivas. Piensa mejor en escribir código que sea autodescriptivo.
+3. Divide en piezas más pequeñas los problemas, piensa en micro servicios, programación funcional, estructuras de datos y la orientación de objetos como herramientas comunes en todos los lenguajes.
+4. Debes comentar tu código cuando algo requiere de explicaciones que no son obvias o descriptivas. Piensa mejor en escribir código que sea auto descriptivo.
 5. Usa convenciones en la estructura del proyecto así como la nomenclatura de los archivos de código fuente.
 6. Mantén organizado tu código, aplica estándares de desarrollo.
 7. Siempre realiza pruebas, automatiza, diseña, planea y ejecuta todas las pruebas que consideres necesarias.
 8. Lee más código del que puedas escribir y práctica implementando tus propias soluciones.
 9. Prepárate para el cambio, siempre hay cosas nuevas que aprender, lo más importante es la pasión de un autodidacta ansioso de nuevos conocimientos.
-10. La simplicidad es la última sofisticación. Recuerda que debes compensar con algo simple como imprimir un “Hola mundo”, a partir de aquí todo se va complicando exponencialmente.
+10. La simplicidad es la última sofisticación. Recuerda que debes compensar con algo simple como imprimir un "Hola mundo", a partir de aquí todo se va complicando.
 
-> Espero que este artículo té sea de ayuda y que puedas adoptar algunas técnicas para ayudarte a ser un mejor programador. 
+> Espero que este artículo té sea de ayuda y que puedas adoptar algunas técnicas para ayudarte a ser un mejor programador.
 
 A continuación te presento los libros que creo todo programador debe leer.
 
@@ -51,16 +51,15 @@ Aprenderás como diferenciar entre el buen y mal código, manejo de errores, có
 
 La sintaxis es propia de los lenguajes de programación, sin embargo es más importante aprender a crear código que se pueda reutilizar y que se encuentre débilmente acoplado para diseñar proyectos que se puedan escalar.
 
-
 ### [Code Complete 2 de Steve McConnell](https://amzn.to/33J4W4Z)
 
-Escrito en 1993 este libro es considerado como un clásico que toca temas sobre debuguear código, pruebas unitarias, estrategias de integración. Nos ayudará a crear una estrategia completa para mejorar nuestra calidad como programadores. 
+Escrito en 1993 este libro es considerado como un clásico que toca temas sobre verificar la funcionalidad del código, pruebas unitarias, estrategias de integración. Nos ayudará a crear una estrategia completa para mejorar nuestra calidad como programadores.
 
 Por último quiero recordarte los objetivos que debes tener siempre presentes al momento de crear código:
 
-* Escribe código legible y que puedas reutilizar.
-* Divide el código en partes muy especializadas y débilmente acopladas.
-* Adopta patrones de diseño y estándares de desarrollo.
-* Acostúmbrate a leer APIs y documentación.
-* Lee más código del que puedas escribir.
-* Prueba, refactoriza, prueba, refactoriza y vuelve a probar.
+- Escribe código legible y que puedas reutilizar.
+- Divide el código en partes muy especializadas y débilmente acopladas.
+- Adopta patrones de diseño y estándares de desarrollo.
+- Acostúmbrate a leer APIs y documentación.
+- Lee más código del que puedas escribir.
+- Prueba, refactoriza, prueba, refactoriza y vuelve a probar.

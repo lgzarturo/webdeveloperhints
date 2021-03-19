@@ -44,8 +44,9 @@ Yo recomiendo que conozcan [Play framework](https://www.playframework.com/gettin
 - El rendimiento de la aplicación se ve afectado cuando se despliega en Tomcat.
 - El código se queda en la carpeta del despliegue.
 - El manejo de archivos blob pierde relación sobre el nombre del archivo.
-                           
+
 ## Libros
+
 - [Practical Play Framework: Focus on what is really important (English Edition)](https://amzn.to/3gqvrjI)
 - [Play for Scala: Covers Play 2](https://amzn.to/33WU9Dr)
 - [Developing on Play Framework 2](https://amzn.to/3mSVqCW)

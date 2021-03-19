@@ -20,7 +20,7 @@ Técnicas para crear código libre de errores para mejorar él mantenimiento y a
 
 Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de como hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
 
-Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como "__código pythonico__". 
+Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como "**código pythonico**".
 
 De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen de Python, como una serie de principios que definen cómo deberían pensar los programadores:
 
@@ -42,7 +42,7 @@ De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen
 - Aunque nunca es a menudo mejor que ya mismo.
 - Si la implementación es difícil de explicar, es una mala idea.
 - Si la implementación es fácil de explicar, puede que sea una buena idea.
-- Los espacios de nombres (__namespaces__) son una gran idea ¡Hagamos más de esas cosas!
+- Los espacios de nombres (**namespaces**) son una gran idea ¡Hagamos más de esas cosas!
 
 Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (por así decirlo) sobre la manera en como sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
 
@@ -50,25 +50,27 @@ Recuerda que la práctica hace al maestro y en el caso de los programadores, mie
 
 ### KISS (Keep It Simply Stupid)
 
-En español "__Mantenlo Sencillo, ¡Estúpido!__", es un principio que recomienda que el programador debe planear el desarrollo de código de la manera más simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
+En español "**Mantenle Sencillo, ¡Estúpido!**", es un principio que recomienda que el programador debe planear el desarrollo de código de la manera más simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
 
-> Todo debe ser lo más simple posible, no solo simple - __Albert Einstein__.
+> Todo debe ser lo más simple posible, no solo simple - **Albert Einstein**.
 
 6 pasos para aplicar el principio KISS:
+
 - Aplica la primera solución que se te ocurra.
 - Si todo funciona bien, elimina lo superfluo.
 - Simplifica el resto del código.
 - Documenta solo lo que no es evidente.
-- Si algo no evidente simplifícalo, el objetivo es eliminar los comentarios.
+- Si algo no es evidente, simplificarlo debes!.
 - Revisa, evalúa y vuelve a simplificar.
 
-> La simplicidad es la sofisticación extrema - __Leonardo Da Vinci__.
+> La simplicidad es la sofisticación extrema - **Leonardo Da Vinci**.
 
 ### DRY (Don’t Repeat Yourself)
 
-En español “__No te repitas__”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea reutilizable de modo que no debería ser duplicada la funcionalidad.
+En español “**No te repitas**”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea reutilizable de modo que no debería ser duplicada la funcionalidad.
 
 Factores que se intentan minimizar con este principio:
+
 - Duplicidad de código
 - Disminución en la dificultad de los cambios.
 - Mayor eficiencia para la evolución posterior.

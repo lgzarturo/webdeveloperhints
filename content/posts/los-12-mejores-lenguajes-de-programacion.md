@@ -33,13 +33,13 @@ Con [C++](http://www.cplusplus.com/doc/tutorial/) tenemos una variante de C, en 
 
 ### Java
 
-[Es un lenguaje multiplataforma](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) y se encuentra presente en más de 2 billones de dispositivos. Está diseñado para permitir la creación de programas que puedan ejecutarse en diferentes plataformas con poca o ninguna modificación y actualmente es una opción muy popular en el desarrollo de aplicaciones web.
+[Es un lenguaje multiplataforma](<https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)>) y se encuentra presente en más de 2 billones de dispositivos. Está diseñado para permitir la creación de programas que puedan ejecutarse en diferentes plataformas con poca o ninguna modificación y actualmente es una opción muy popular en el desarrollo de aplicaciones web.
 
 ### Groovy y Kotlin
 
 Son dos lenguajes que funcionan sobre la Java virtual machine, se podrían considerara como variantes del lenguaje que agregan muchas características especiales. En el caso del lenguaje [Groovy](https://groovy-lang.org/) se usa en el framework Grails como base para el desarrollo y el lenguaje [Kotlin](https://kotlinlang.org/) se ha convertido en el lenguaje de [Android](https://www.android.com/intl/es-419_mx/), remplazando a Java.
 
-### C#
+### C Sharp
 
 Este lenguaje es la plataforma por excelencia para desarrollar aplicaciones de Windows, plataformas de videojuegos y actualmente aplicaciones web. Originalmente [el lenguaje C#](https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/) fue creado por Microsoft para desarrollar software para el framework .NET, que soporta muchas aplicaciones que se ejecutan en Windows, sin embargo, con el tiempo y la popularidad ha llegado hasta entornos Linux.
 
@@ -48,6 +48,7 @@ Este lenguaje es la plataforma por excelencia para desarrollar aplicaciones de W
 Es un [lenguaje de programación R](https://www.r-project.org/) diseñado para el análisis estadístico, cálculo matemático y para crear aplicaciones de minería de datos. El término de Big Data y minería de datos son el punto fuerte de este lenguaje.
 
 ### JavaScript
+
 Es un lenguaje de scripting usado principalmente para agregar funcionalidad a las aplicaciones web aprovechando el poder computacional de los navegadores web, permitiendo la creación de sitios web complejos.
 
 Este lenguaje por lo regular se usa desde el lado del cliente y no necesita compilación, aunque actualmente con [NodeJS](https://nodejs.org/es/) también existe la posibilidad de que sea ejecutado del lado del servidor, dando la posibilidad de crear aplicaciones web muy complejas y eficientes.
@@ -55,17 +56,19 @@ Este lenguaje por lo regular se usa desde el lado del cliente y no necesita comp
 > El término [Single Page Application "SPA"](https://en.wikipedia.org/wiki/Single-page_application) es un sitio web construido en [JavaScript](https://www.javascript.com/) con peticiones asíncronas (Ajax), donde el navegador carga una sola vez el código integrado en una página HTML, esto le da dinamismo a la página y aprovecha el recurso computacional del cliente para realizar la visualización de los elementos en pantalla.
 
 ### PHP
+
 El lenguaje de programación de Internet por excelencia. Es un lenguaje destinado al entorno web y se ejecuta del lado del servidor, es interpretado, dinámico y está diseñado principalmente para dar soporte a sitios dinámicos.
 
 > [76 millones de sitios web están desarrolladas en Wordpress](https://www.40defiebre.com/estadisticas-wordpress/) que a su vez esta plataforma está construida con el lenguaje PHP.
 
 ### Go
+
 Google no se queda atrás, ellos son una de las compañías de tecnología más grandes del mundo y sus avances en el campo de la programación son importantes y llegaron para quedarse, en este caso Go es la solución la computación concurrente para aprovechar el multi procesamiento permitiendo la programación paralela y la interacción entre las tareas.
 
 > Creado por Google, Go incorpora soporte para programas que necesitan intercambiar información mientras se ejecuta de manera concurrente en diferentes equipos.
 
 Con eso cerramos el listado de los lenguajes de programación más populares desde mi punto de vista, cabe mencionar que en este listado [Ruby](https://www.ruby-lang.org/es/) no me parece tan usado hoy en día, igual y me equivoco, seguramente hay muchos más lenguajes que son populares pero en el entorno laboral es complicada la adopción de nuevas tecnologías.
 
-                                  
 Más información:
-https://www.tiobe.com/tiobe-index/
+
+- [Tiobe index](https://www.tiobe.com/tiobe-index/)

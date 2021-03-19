@@ -14,7 +14,7 @@ type: "post"
 
 Más que un sitio es una comunidad de desarrolladores, tiene una extension de chrome para remplazar la página de inicio del navegador.
 
-https://daily.dev/ 
+https://daily.dev/
 
 ## React Admin
 
@@ -24,13 +24,13 @@ https://marmelab.com/react-admin/Tutorial.html
 
 ## Next en 10 tweets
 
-Explicación simple en 10 tweets de las ventajas de usar Nextjs.
+Explicación simple en 10 tweets de las ventajas de usar Next.js.
 
 https://colbyfayock.hashnode.dev/learn-nextjs-in-10-tweets
 
 ## Material icons
 
-Compilación de iconos opensource basados en material design.
+Compilación de iconos open source basados en material design.
 
 https://material-ui.com/components/material-icons/
 

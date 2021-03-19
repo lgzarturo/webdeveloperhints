@@ -20,8 +20,7 @@ Es importante adoptar buenas prácticas para escribir el código y la documentac
 
 Hay un dicho que me gusta porque menciona que un programador con un excelente estilo para escribir código legible no necesita documentación.
 
-> El buen código es la mejor documentación: cuando estés a punto de agregar un comentario pregúntate “¿Qué puedo mejorar en el código para que este comentario no sea necesario?”, mejora el código y luego documenta lo más claro posible. - Steve McConnell
-
+> El buen código es la mejor documentación: cuando estés a punto de agregar un comentario pregúntate "¿Qué puedo mejorar en el código para que este comentario no sea necesario?", mejora el código y luego documenta lo más claro posible. - Steve McConnell
 
 Una de las cosas que debes de recordar es que la memoria te puede fallar y no siempre trabajaras solo. Para lo cual escribir buen código es una obligación, habla bien de ti y demuestra respeto hacia los demás. La mayor parte del tiempo nos la pasamos revisando código que escriben otros programadores y es motivo de frustración intentar adivinar el objetivo de un programa sin documentación.
 
@@ -29,21 +28,21 @@ Imagínate que las librerías de código que utilizas o el framework que quieres
 
 La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos que leer mucho código y programar lo esencial, intentamos crear aplicaciones funcionales con el menor código que sea posible.
 
-“La legibilidad cuenta” - Adoptar una convención para la escritura de código nos ayuda a que el mantenimiento o refactorización sean procesos menos dolorosos, sin dolores de cabeza. Haciendo que nuestro código sea más legible para otros programadores como para nosotros mismos.
+"La legibilidad cuenta" - Adoptar una convención para la escritura de código nos ayuda a que el mantenimiento o refactorización sean procesos menos dolorosos, sin dolores de cabeza. Haciendo que nuestro código sea más legible para otros programadores como para nosotros mismos.
 
-> “Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso” – *Bill Gates*
+> "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso" – _Bill Gates_
 
 ### Ideas para mejorar como programador
 
 - Nombre de variables, clases o métodos más descriptivos.
 - Siempre pon atención a la indentación del código.
 
-> Todo debe ser lo más simple posible, no solo simple - *Albert Einstein*
+> Todo debe ser lo más simple posible, no solo simple - _Albert Einstein_
 
 - Crea o adopta un estándar para escribir código.
 - Decide entre tabulación o espacios.
 
-> “Codifica siempre como si el tipo que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives.” - Rick Osborne
+> "Codifica siempre como si el tipo que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives." - Rick Osborne
 
 - Longitud de línea no mayores a 120 caracteres.
 - Agrupar código en funciones o clases.
@@ -53,7 +52,6 @@ La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos q
 - Adopta buenas prácticas para documentar tu código.
 - Crea comentarios en el código que sumen valor.
 
-> La simplicidad es la sofisticación extrema - *Leonardo Da Vinci*
+> La simplicidad es la sofisticación extrema - _Leonardo Da Vinci_
 
-- Nunca documentes el problema; mejor soluciónalo y después codifícalo.
-
+- Nunca documentes el problema; mejor piensa en la solución y después codifica.
