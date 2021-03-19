@@ -15,7 +15,7 @@ Un sitio en línea puede ser la puerta de entrada a un mercado digital, _funcion
 
 Para comercializar una empresa, existen varias formas de promocionar los servicios o productos hacia cliente potenciales.
 
-## Pasos para promocionar una empresa en línea.
+## Pasos para promocionar una empresa en línea
 
 - **Búsqueda orgánica** (natural). Aprovechando los motores de búsqueda, se puede optimizar el sitio para que con el tiempo empiece a figurar en los resultados de las búsquedas que tienen relación con los productos o servicios de la empresa.
 

@@ -14,28 +14,28 @@ type: "post"
 
 Más que un sitio es una comunidad de desarrolladores, tiene una extension de chrome para remplazar la página de inicio del navegador.
 
-https://daily.dev/
+- [Comunidad de desarrolladores en daily.dev](https://daily.dev/)
 
 ## React Admin
 
 Herramienta para generar un administrador backend con React.
 
-https://marmelab.com/react-admin/Tutorial.html
+- [Primeros pasos con react admin](https://marmelab.com/react-admin/Tutorial.html)
 
 ## Next en 10 tweets
 
 Explicación simple en 10 tweets de las ventajas de usar Next.js.
 
-https://colbyfayock.hashnode.dev/learn-nextjs-in-10-tweets
+- [Explicando nextjs con tweets](https://colbyfayock.hashnode.dev/learn-nextjs-in-10-tweets)
 
 ## Material icons
 
 Compilación de iconos open source basados en material design.
 
-https://material-ui.com/components/material-icons/
+- [Catálogo de icono Material UI](https://material-ui.com/components/material-icons/)
 
 ## Amplify
 
 Herramientas para crear aplicaciones serverless.
 
-https://dev.to/aws/building-and-managing-your-cloud-backend-with-amplify-admin-ui-29k
+- [Crear un servicio serverless con Amplify](https://dev.to/aws/building-and-managing-your-cloud-backend-with-amplify-admin-ui-29k)

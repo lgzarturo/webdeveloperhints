@@ -14,7 +14,7 @@ type: "post"
 
 Listado de actividades y plugins recomendados para tener un sitio web en WordPress funcionando de manera optima.
 
-## Recomendaciones de Wordpress:
+## Recomendaciones de Wordpress
 
 - [ ] Crear una cuenta de administrador y el usuario admin ponerlo como editor.
 - [ ] Crear una cuenta de [CloudFlare](https://wordpress.org/plugins/cloudflare/) para mejorar el rendimiento de la respuesta del sitio (DNS) y tener un Servicio de Caché automático.
